@@ -1,0 +1,44 @@
+# Serge Gabriel Collin
+
+> Official website of Serge Gabriel Collin, Minister of Economy and Finance of the Republic of Haiti. The site presents his biography, economic vision, policy actions, news, media galleries, and contact information. Available in French (default), English, and Spanish.
+
+Serge Gabriel Collin is a Haitian economist and public administrator appointed Minister of Economy and Finance on February 23, 2026. He previously served as Director General of FAES (Fonds d'Assistance Economique et Sociale) and Cabinet Director at the Ministry of Economy and Finance.
+
+His economic vision is built on four strategic pillars: fiscal modernization and revenue mobilization, budgetary discipline and macroeconomic stability, financial inclusion and social protection, and international partnerships with the IMF, World Bank, and IDB.
+
+The site is multilingual (French, English, Spanish) and all pages are available under their respective locale prefixes (`/fr/`, `/en/`, `/es/`).
+
+## Pages
+
+- [Home](https://sergegabrielcollin.com/fr): Landing page with key statistics, biographical summary, economic vision preview, and latest news
+- [Biography](https://sergegabrielcollin.com/fr/biographie): Full career biography, professional timeline, key achievements at FAES and MEF
+- [Vision](https://sergegabrielcollin.com/fr/vision): Four strategic pillars of economic policy — fiscal modernization, budgetary discipline, financial inclusion, international partnerships
+- [Actions](https://sergegabrielcollin.com/fr/actions): Concrete policy achievements and initiatives, filterable by category (Reforms, Partnerships, Humanitarian, Field)
+- [News](https://sergegabrielcollin.com/fr/actualites): Official press releases, communiques, and news coverage
+- [Media](https://sergegabrielcollin.com/fr/medias): Photo galleries, video content, and press coverage from Haitian media outlets
+- [Contact](https://sergegabrielcollin.com/fr/contact): Contact form for press inquiries, partnership opportunities, and official requests
+
+## Key Facts
+
+- Full name: Serge Gabriel Collin
+- Title: Minister of Economy and Finance, Republic of Haiti
+- Appointed: February 23, 2026
+- Installed: February 25, 2026
+- Previous role: Director General of FAES (February 2025)
+- Key institutions: MEF, FAES, DGI, AGD, BRH
+- International partners: IMF, World Bank, IDB (Inter-American Development Bank)
+
+## Contact
+
+- Office: Cabinet du Ministre de l'Economie et des Finances, Port-au-Prince, Haiti
+- Email: contact@sergegabrielcollin.com
+- Facebook: https://facebook.com/sergegabrielcollin
+- Instagram: https://instagram.com/sergegabrielcollin
+- X (Twitter): https://x.com/sergegcollin
+- LinkedIn: https://linkedin.com/in/sergegabrielcollin
+- YouTube: https://youtube.com/@sergegabrielcollin
+
+## Optional
+
+- [Sitemap](https://sergegabrielcollin.com/sitemap.xml): XML sitemap with all pages and locale alternates
+- [Robots](https://sergegabrielcollin.com/robots.txt): Crawler access directives

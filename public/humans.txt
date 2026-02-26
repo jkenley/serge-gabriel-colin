@@ -1,0 +1,30 @@
+/* TEAM */
+
+Minister: Serge Gabriel Collin
+Title: Minister of Economy and Finance, Republic of Haiti
+Site: https://sergegabrielcollin.com
+X: @sergegcollin
+LinkedIn: sergegabrielcollin
+Location: Port-au-Prince, Haiti
+
+Developer: Syntax Studio
+Site: https://syntaxstudio.io
+Location: Montreal, Canada
+
+/* THANKS */
+
+Name: Government of the Republic of Haiti
+Site: https://primature.gouv.ht
+
+/* SITE */
+
+Last update: 2026/02/26
+Language: French, English, Spanish
+Doctype: HTML5
+Standards: HTML5, CSS3, ECMAScript 2024
+Framework: Next.js 16, React 19
+UI: Chakra UI 3, Framer Motion
+Runtime: Bun
+Linter: Biome
+i18n: next-intl
+Hosting: Vercel
