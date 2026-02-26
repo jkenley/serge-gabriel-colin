@@ -1,9 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { hasLocale, NextIntlClientProvider } from "next-intl";
-import Navbar from "@/components/Navbar";
-import ScrollToTop from "@/components/ScrollToTop";
-import FooterSection from "@/components/sections/FooterSection";
 import { routing } from "@/i18n/routing";
 import { getPageSEO } from "@/lib/seo/metadata";
 import { Provider } from "@/src/components/ui/provider";
@@ -46,10 +43,7 @@ export default async function LocaleLayout({
       <body>
         <Provider>
           <NextIntlClientProvider messages={messages}>
-            <Navbar />
-            <main>{children}</main>
-            <FooterSection />
-            <ScrollToTop />
+            {children}
           </NextIntlClientProvider>
         </Provider>
       </body>

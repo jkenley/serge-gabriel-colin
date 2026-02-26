@@ -505,6 +505,15 @@
     "copyright": "© 2026 Serge Gabriel Collin. Tous droits réservés.",
     "bottomRepublic": "République d'Haïti"
   },
+
+  "PinPage": {
+    "title": "Accès restreint",
+    "subtitle": "Entrez le code PIN à 4 chiffres pour accéder au site.",
+    "invalidPin": "Code PIN invalide. Veuillez réessayer.",
+    "verificationError": "Échec de la vérification. Veuillez réessayer.",
+    "verifying": "Vérification en cours..."
+  },
+
   "_NOTES_TRADUCTION": {
     "note": "Traduction française intégrale du contenu du site officiel du ministre Serge Gabriel Collin. Le français utilisé respecte les conventions institutionnelles haïtiennes et les normes typographiques françaises (espaces insécables avant les deux-points, points-virgules, etc.).",
     "conventions": [

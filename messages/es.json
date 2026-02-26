@@ -508,6 +508,14 @@
     "bottomRepublic": "República de Haití"
   },
 
+  "PinPage": {
+    "title": "Acceso restringido",
+    "subtitle": "Ingrese el PIN de 4 dígitos para acceder al sitio.",
+    "invalidPin": "PIN inválido. Inténtelo de nuevo.",
+    "verificationError": "Error de verificación. Inténtelo de nuevo.",
+    "verifying": "Verificando..."
+  },
+
   "_NOTAS_TRADUCCION": {
     "nota": "Traducción completa al español del contenido del sitio oficial del ministro Serge Gabriel Collin. El español utilizado sigue el registro institucional y diplomático latinoamericano, con atención especial a la terminología del Caribe hispanohablante y las convenciones de organismos internacionales (BID, FMI, Banco Mundial).",
     "convenciones": [

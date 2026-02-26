@@ -497,6 +497,14 @@
     "bottomRepublic": "Republic of Haiti"
   },
 
+  "PinPage": {
+    "title": "Restricted Access",
+    "subtitle": "Enter the 4-digit PIN to access the website.",
+    "invalidPin": "Invalid PIN. Please try again.",
+    "verificationError": "Verification failed. Please try again.",
+    "verifying": "Verifying..."
+  },
+
   "_CONTENT_NOTES": {
     "note": "This document contains production-ready content for the official website of Minister Serge Gabriel Collin. All facts have been verified against multiple Haitian press sources, the official FAES Annual Report (FY 2024-2025), and government communications.",
     "sources": [
