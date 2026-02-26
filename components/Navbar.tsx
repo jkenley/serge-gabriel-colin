@@ -6,6 +6,7 @@ import { AnimatePresence, motion } from "motion/react";
 import { useLocale, useTranslations } from "next-intl";
 import { useEffect, useState } from "react";
 import { Link, usePathname, useRouter } from "@/i18n/navigation";
+import { rawColors } from "@/theme";
 import Monogram from "./Monogram";
 
 const MotionBox = motion.create(Box);
@@ -58,8 +59,8 @@ export default function Navbar() {
         right="0"
         zIndex="header"
         transition="all 300ms"
-        bg={scrolled || !isHome ? "rgba(15, 23, 36, 0.95)" : "transparent"}
-        backdropFilter={scrolled || !isHome ? "blur(12px)" : "none"}
+        bg={scrolled || !isHome ? rawColors.primary : "transparent"}
+        // backdropFilter={scrolled || !isHome ? "blur(4px)" : "none"}
         boxShadow={scrolled ? "lg" : "none"}
       >
         <Flex

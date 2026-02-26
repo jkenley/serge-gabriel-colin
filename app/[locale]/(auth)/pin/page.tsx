@@ -164,7 +164,6 @@ export default function PinPage() {
               fontSize="sm"
               color="whiteAlpha.500"
               lineHeight="body"
-              maxW="xs"
             >
               {t("subtitle")}
             </Text>

@@ -136,6 +136,13 @@
   "About": {
     "label": "Biografía",
     "heading": "Una carrera dedicada al desarrollo económico de Haití",
+    "imageAlt": "Serge Gabriel Collin — Ministro de Economía y Finanzas",
+    "bio1": "Serge Gabriel Collin es un economista y administrador público haitiano cuya carrera ha estado definida por un solo propósito: fortalecer las instituciones financieras de la República de Haití y mejorar las condiciones de vida de sus ciudadanos más vulnerables.",
+    "bio2prefix": "Con más de quince años de experiencia en finanzas públicas, cooperación internacional y liderazgo institucional, actualmente se desempeña como",
+    "bio2role": "Ministro de Economía y Finanzas",
+    "bio2suffix": "de la República de Haití — aportando un profundo conocimiento institucional y una trayectoria comprobada de resultados bajo presión extraordinaria.",
+    "readFullBio": "Leer la biografía completa",
+    "timelineLabel": "Trayectoria profesional",
 
     "sections": {
       "intro": {

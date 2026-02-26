@@ -36,6 +36,20 @@ export async function getPageSEO(
       locale: LOCALE_MAP[locale] || "fr_FR",
       type: "website",
       siteName: "Serge Gabriel Collin",
+      images: [
+        {
+          url: `${BASE_URL}/serge_gabriel_colin.jpg`,
+          width: 1200,
+          height: 630,
+          alt: "Serge Gabriel Collin — Minister of Economy and Finance",
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: t("title"),
+      description: t("description"),
+      images: [`${BASE_URL}/serge_gabriel_colin.jpg`],
     },
   };
 }

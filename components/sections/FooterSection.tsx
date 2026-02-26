@@ -141,7 +141,7 @@ export default function FooterSection() {
             >
               {t("navigationLabel")}
             </Text>
-            <VStack as="nav" align="start" gap="3.5">
+            <VStack as="nav" align="start" gap="3">
               {navLinks.map((link) => (
                 <Box
                   key={link.href}

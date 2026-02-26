@@ -37,7 +37,7 @@ function Counter({ target, suffix }: { target: number; suffix: string }) {
             const elapsed = now - startTime;
             const progress = Math.min(elapsed / duration, 1);
             const eased = 1 - (1 - progress) ** 3;
-            setCount(Math.floor(eased * target));
+            setCount(Math.max(0, Math.floor(eased * target)));
             if (progress < 1) requestAnimationFrame(animate);
           };
           requestAnimationFrame(animate);
@@ -145,6 +145,7 @@ export default function HeroSection() {
                 transition={{ duration: 0.7, delay: 0.35 }}
               >
                 <Heading
+                  as="h1"
                   fontFamily="heading"
                   fontSize={{ base: "4xl", md: "5xl", lg: "6xl" }}
                   fontWeight="900"
