@@ -1,0 +1,532 @@
+{
+  "SEO": {
+    "home": {
+      "title": "Serge Gabriel Collin — Ministro de Economía y Finanzas | República de Haití",
+      "description": "Sitio oficial de Serge Gabriel Collin, ministro de Economía y Finanzas de la República de Haití. Una carrera dedicada al desarrollo económico de Haití — liderazgo con acción, excelencia con rigor."
+    },
+    "biographie": {
+      "title": "Biografía — Serge Gabriel Collin | Ministro de Economía y Finanzas",
+      "description": "Trayectoria y biografía de Serge Gabriel Collin, ministro de Economía y Finanzas de la República de Haití. De director general del FAES a liderar la recuperación económica de Haití."
+    },
+    "vision": {
+      "title": "Visión — Serge Gabriel Collin | Construir una economía resiliente para Haití",
+      "description": "Visión económica y ejes estratégicos del ministro Serge Gabriel Collin: modernización fiscal, disciplina presupuestaria, inclusión financiera y alianzas internacionales para el desarrollo de Haití."
+    },
+    "actions": {
+      "title": "Acciones y logros — Serge Gabriel Collin",
+      "description": "Acciones concretas y logros del ministro Serge Gabriel Collin — de la reforma fiscal a la respuesta humanitaria y la modernización de las finanzas públicas."
+    },
+    "actualites": {
+      "title": "Noticias — Serge Gabriel Collin | Ministro de Economía y Finanzas",
+      "description": "Últimas noticias, comunicados de prensa y comunicaciones oficiales del ministro de Economía y Finanzas de la República de Haití."
+    },
+    "medias": {
+      "title": "Medios — Serge Gabriel Collin",
+      "description": "Fotos, videos y cobertura mediática de los compromisos oficiales y comunicaciones públicas del ministro Serge Gabriel Collin."
+    },
+    "contact": {
+      "title": "Contacto — Despacho del ministro de Economía y Finanzas | República de Haití",
+      "description": "Contacte el despacho del ministro de Economía y Finanzas de la República de Haití para consultas de prensa, alianzas o información oficial."
+    }
+  },
+
+  "Navigation": {
+    "home": "Inicio",
+    "biographie": "Biografía",
+    "vision": "Visión",
+    "actions": "Acciones",
+    "actualites": "Noticias",
+    "medias": "Medios",
+    "contact": "Contacto",
+    "selectLanguage": "Seleccionar idioma"
+  },
+
+  "Hero": {
+    "republic": "República de Haití",
+    "name": "Serge G. Collin",
+    "role": "Ministro de Economía y Finanzas",
+    "quote": "Liderazgo con acción.\nExcelencia con rigor.",
+    "ctaPrimary": "Descubrir mi trayectoria",
+    "ctaSecondary": "Contacto",
+    "imageAlt": "Serge Gabriel Collin — Ministro de Economía y Finanzas de la República de Haití",
+    "stats": {
+      "experience": {
+        "value": "15",
+        "suffix": "+",
+        "label": "Años de experiencia"
+      },
+      "partnerships": {
+        "value": "20",
+        "suffix": "+",
+        "label": "Alianzas internacionales"
+      },
+      "budget": {
+        "value": "50",
+        "suffix": "+",
+        "label": "Miles de millones de HTG gestionados"
+      },
+      "projects": {
+        "value": "30",
+        "suffix": "+",
+        "label": "Proyectos estratégicos"
+      }
+    }
+  },
+
+  "HomeBio": {
+    "label": "Acerca de",
+    "heading": "Una carrera dedicada al desarrollo económico de Haití",
+    "body": "Serge Gabriel Collin es un economista y administrador público haitiano reconocido por su compromiso inquebrantable con el desarrollo económico sostenible de la República de Haití. Con más de quince años de experiencia en gestión de proyectos de gran envergadura, cooperación internacional y finanzas públicas, aporta al Ministerio de Economía y Finanzas una combinación excepcional de dominio técnico y liderazgo operativo, forjada en las condiciones más exigentes.",
+    "cta": "Leer la biografía completa",
+    "imageAlt": "Serge Gabriel Collin — Ministro de Economía y Finanzas"
+  },
+
+  "HomeVision": {
+    "label": "Visión",
+    "heading": "Construir una economía resiliente e inclusiva para Haití",
+    "quote": "Estoy convencido de que el potencial económico de Haití es inmenso. Nuestra misión es crear las condiciones para que ese potencial se materialice — mediante la disciplina presupuestaria, la modernización institucional y el esfuerzo colectivo de cada ciudadano haitiano.",
+    "quoteAuthor": "Serge Gabriel Collin",
+    "axesLabel": "Ejes estratégicos",
+    "pillars": {
+      "p1": "Modernización fiscal",
+      "p2": "Disciplina presupuestaria",
+      "p3": "Inclusión financiera",
+      "p4": "Alianzas internacionales"
+    },
+    "cta": "Descubrir la visión"
+  },
+
+  "HomeNews": {
+    "label": "Noticias",
+    "heading": "Últimas noticias",
+    "allNews": "Todas las noticias",
+    "readArticle": "Leer el artículo",
+    "headlinesLabel": "Titulares",
+    "featured": {
+      "title": "El ministro Collin, instalado oficialmente al frente del Ministerio de Economía y Finanzas",
+      "date": "25 de febrero de 2026",
+      "category": "Oficial",
+      "excerpt": "En una ceremonia presidida por el ministro de Justicia Patrick Pélissier, Serge Gabriel Collin fue instalado oficialmente como ministro de Economía y Finanzas, presentando una hoja de ruta centrada en la disciplina presupuestaria, la movilización de ingresos internos y el cumplimiento de los compromisos internacionales."
+    },
+    "news": {
+      "item1": {
+        "title": "Nombramientos estratégicos: nueva dirección en la DGI y el FAES",
+        "date": "23 de febrero de 2026",
+        "category": "Comunicado"
+      },
+      "item2": {
+        "title": "Compromiso con la preparación de un presupuesto rectificativo 2025–2026",
+        "date": "25 de febrero de 2026",
+        "category": "Política"
+      },
+      "item3": {
+        "title": "Llamado a acelerar la teledeclaración y la modernización fiscal",
+        "date": "25 de febrero de 2026",
+        "category": "Reforma"
+      }
+    }
+  },
+
+  "HomeCTA": {
+    "heading": "Contactar el despacho del ministro",
+    "description": "Para consultas de prensa, oportunidades de alianza o información oficial.",
+    "button": "Contáctenos"
+  },
+
+  "About": {
+    "label": "Biografía",
+    "heading": "Una carrera dedicada al desarrollo económico de Haití",
+
+    "sections": {
+      "intro": {
+        "title": "Una trayectoria forjada en el terreno",
+        "content": "Serge Gabriel Collin es un economista y administrador público haitiano cuya carrera ha estado definida por un solo propósito: fortalecer las instituciones financieras de la República de Haití y mejorar las condiciones de vida de sus ciudadanos más vulnerables. Con más de quince años de experiencia en gestión de proyectos de gran envergadura, cooperación internacional para el desarrollo y dirección del sector público, aporta al Ministerio de Economía y Finanzas un profundo conocimiento institucional, respaldado por una capacidad probada para generar resultados bajo presión extraordinaria."
+      },
+
+      "earlyCareer": {
+        "title": "La construcción de una experticia en administración pública",
+        "content": "La carrera del señor Collin se forjó dentro de la administración pública haitiana — a través de funciones técnicas, responsabilidades institucionales y un dominio profundo de los mecanismos de gobernanza en todos los niveles. Este conocimiento de los procesos institucionales, combinado con un enfoque analítico riguroso, lo posicionó como una figura de confianza dentro del gobierno y ante los socios internacionales. Su trabajo se orientó constantemente hacia la eficiencia operativa, la transparencia financiera y una gestión enfocada en resultados."
+      },
+
+      "faes": {
+        "title": "Al frente del FAES: excelencia en tiempos de crisis",
+        "content": "El 19 de febrero de 2025, Serge Gabriel Collin fue investido como director general del Fondo de Asistencia Económica y Social (FAES), principal agencia del Estado haitiano encargada de la protección social y la asistencia económica a las poblaciones más vulnerables del país. Bajo su dirección, la institución gestionó un presupuesto total superior a 14 700 millones de gurdas para el ejercicio fiscal 2024–2025, con desembolsos efectivos de 9450 millones de gurdas — una tasa de ejecución del 64 % lograda en uno de los entornos operativos más volátiles del hemisferio occidental.",
+        "highlights": [
+          "Gestión de programas por un monto superior a 260 millones de dólares estadounidenses en alianza con el Banco Interamericano de Desarrollo (BID), abarcando seguridad alimentaria, resiliencia climática e infraestructura comunitaria en los diez departamentos de Haití",
+          "Supervisión de la distribución de más de 218 000 kits alimentarios y sanitarios a personas desplazadas a través del Programa de Urgencia Multisectorial (PUM)",
+          "Coordinación del despliegue de 48 comedores comunitarios que sirvieron comidas calientes diarias a poblaciones desplazadas internas en el área metropolitana y los centros provinciales",
+          "Dirección de programas de transferencias monetarias que alcanzaron a cerca de 250 000 hogares vulnerables, incluyendo trabajadores textiles, padres de escolares y familias en situación de inseguridad alimentaria aguda",
+          "Conducción de un taller de planificación estratégica con el BID en Cap-Haïtien para armonizar la ejecución plurianual de los programas de seguridad alimentaria, salud e inclusión juvenil",
+          "Presentación del informe anual del FAES documentando el impacto de los programas — incluyendo una tasa de inserción profesional del 93 % entre 64 629 jóvenes beneficiarios del programa HA-L1137, así como mejoras medibles en seguridad alimentaria y autonomía económica de las mujeres a través de la evaluación del programa HA-J0001",
+          "Fortalecimiento de la capacidad institucional con un crecimiento del 41 % de la plantilla del FAES, alcanzando 327 empleados con un 35 % de representación femenina, manteniendo la continuidad operativa pese a un conflicto armado que afectaba al 80 % del área metropolitana de Puerto Príncipe",
+          "Negociación y formalización de alianzas con Taiwán (donaciones de arroz y programa KORE-PEP), Kuwait (reconstrucción de infraestructuras) y organizaciones multilaterales incluyendo el Programa Mundial de Alimentos, CARE, AVSI, GHESKIO y el PADF",
+          "Inauguración del primer Centro de Acogida y Reinserción para Niños en Situación de Calle, en colaboración con la Policía Comunitaria",
+          "Puesta en marcha de proyectos de infraestructura en todos los departamentos — rehabilitación vial, construcción de cisternas de agua, renovación de centros de salud, creación de espacios públicos y programas de resiliencia ambiental incluyendo reforestación y manejo de cuencas hidrográficas"
+        ]
+      },
+
+      "cabinetDirector": {
+        "title": "Director de gabinete en el MEF",
+        "content": "El 9 de febrero de 2026, mientras aún ejercía como director general del FAES, el señor Collin fue nombrado director de gabinete del Ministerio de Economía y Finanzas por el ministro interino Alix Didier Fils-Aimé. En este cargo, desempeñó la coordinación administrativa principal del ministerio, trabajando en estrecha colaboración con directores y altos funcionarios para garantizar la coherencia de las operaciones ministeriales durante una transición política determinante. Este nombramiento reflejó la confianza depositada en su conocimiento institucional y su capacidad para conducirse con eficacia dentro de procesos gubernamentales complejos."
+      },
+
+      "minister": {
+        "title": "Ministro de Economía y Finanzas",
+        "content": "El 23 de febrero de 2026, el primer ministro Alix Didier Fils-Aimé nombró oficialmente a Serge Gabriel Collin como ministro de Economía y Finanzas durante un Consejo de Ministros celebrado en la Villa d'Accueil. El nombramiento fue publicado en el diario oficial Le Moniteur el 24 de febrero de 2026. Dos días después, el 25 de febrero de 2026, fue formalmente instalado en sus nuevas funciones durante una ceremonia en la sede del ministerio.",
+        "installationDetails": "La ceremonia de instalación fue presidida por el ministro de Justicia Patrick Pélissier, en funciones de primer ministro interino mientras Fils-Aimé participaba en una reunión de la Comunidad del Caribe (CARICOM) en San Cristóbal y Nieves. La ceremonia contó con la presencia del director de gabinete del primer ministro, Me Axène Joseph, del ministro de Salud Pública, Dr. Sinal Bertrand, del ministro de Asuntos Sociales y Trabajo, del gobernador del Banco de la República de Haití (BRH) y de altos funcionarios del MEF.",
+        "initialPriorities": [
+          "Preparar un presupuesto rectificativo 2025–2026 para alinear las asignaciones presupuestarias con las prioridades del gobierno, limitando al mismo tiempo el déficit fiscal",
+          "Establecer la disciplina presupuestaria como principio innegociable — poner fin al financiamiento monetario excesivo que alimenta la inflación y deprecia la gurda",
+          "Movilizar los ingresos internos mediante la modernización de la Dirección General de Impuestos (DGI) y la Administración General de Aduanas (AGD)",
+          "Acelerar la teledeclaración como herramienta de pago y cumplimiento tributario",
+          "Mejorar la disponibilidad en tiempo real de los datos relativos a los comprobantes de pago emitidos y cobrados en las administraciones fiscal y aduanera",
+          "Honrar los compromisos asumidos ante el FMI en el marco del programa SMP, gestionando al mismo tiempo las emergencias nacionales",
+          "Hacer un llamado a cada ciudadano haitiano para que contribuya a la reconstrucción nacional mediante el cumplimiento de sus obligaciones fiscales"
+        ]
+      },
+
+      "philosophy": {
+        "title": "Filosofía de liderazgo",
+        "content": "El enfoque del ministro Collin en el servicio público se sustenta en tres principios que han guiado toda su carrera: desempeño, transparencia e inclusión. En el FAES, promovió una cultura en la que los tres valores fundamentales de la institución — la valorización del talento, la agilidad y el desempeño — no eran consignas, sino realidades operativas. Aplicó la misma disciplina en cada función desempeñada: las decisiones deben basarse en evidencia, los recursos deben optimizarse y los más vulnerables deben permanecer en el centro de cada política. Su discurso de investidura como ministro cristalizó esta filosofía: cuando los precios suben y la moneda se deprecia, son las familias más frágiles quienes pagan el precio de la inestabilidad. Para el señor Collin, la disciplina presupuestaria no es una abstracción — es la primera línea de defensa del pueblo haitiano."
+      }
+    },
+
+    "timeline": {
+      "t1": {
+        "year": "2008–2024",
+        "title": "Carrera en la administración pública",
+        "org": "Gobierno de Haití",
+        "desc": "Funciones técnicas e institucionales progresivas, forjando una experticia profunda en finanzas públicas, gestión de proyectos y cooperación internacional"
+      },
+      "t2": {
+        "year": "Feb. 2025",
+        "title": "Director general",
+        "org": "FAES",
+        "desc": "Nombrado al frente de la principal agencia de protección social de Haití — gestión de un presupuesto de 14 700 millones de HTG a través de programas del BID, el Tesoro Público, Taiwán y Kuwait"
+      },
+      "t3": {
+        "year": "9 feb. 2026",
+        "title": "Director de gabinete",
+        "org": "Ministerio de Economía y Finanzas",
+        "desc": "Nombrado para coordinar las operaciones ministeriales durante la transición política"
+      },
+      "t4": {
+        "year": "23 feb. 2026",
+        "title": "Ministro de Economía y Finanzas",
+        "org": "República de Haití",
+        "desc": "Nombrado por el primer ministro Fils-Aimé, instalado el 25 de febrero — encargado de la estabilización fiscal, la movilización de ingresos y la modernización de las finanzas públicas"
+      }
+    },
+
+    "achievements": {
+      "a1": "Más de 14 700 millones de HTG de presupuesto gestionado en el FAES (ejercicio 2024–2025)",
+      "a2": "250 000 hogares vulnerables alcanzados mediante transferencias monetarias",
+      "a3": "Más de 218 000 kits alimentarios y sanitarios distribuidos",
+      "a4": "48 comedores comunitarios desplegados para poblaciones desplazadas",
+      "a5": "Más de 260 millones de USD en programas del BID coordinados",
+      "a6": "64 629 jóvenes beneficiarios con una tasa de inserción del 93 % (HA-L1137)",
+      "a7": "327 empleados dirigidos en 5 oficinas regionales a nivel nacional",
+      "a8": "Alianzas con el BID, el PMA, Taiwán, Kuwait, CARE, AVSI, GHESKIO y otros"
+    },
+
+    "quote": {
+      "text": "Recibo esta responsabilidad con humildad y determinación. Pagar los impuestos es contribuir a la reconstrucción del país.",
+      "source": "Serge Gabriel Collin, ceremonia de instalación, 25 de febrero de 2026"
+    }
+  },
+
+  "Vision": {
+    "label": "Visión",
+    "heading": "Construir una economía resiliente e inclusiva para Haití",
+    "introText": "Haití sale de más de cinco años consecutivos de recesión económica, agravada por la inestabilidad política y una crisis de seguridad devastadora. La inflación alcanzó aproximadamente el 25 % a finales de 2025. Los ingresos públicos crecieron apenas un 8 %, mientras que los gastos aumentaron alrededor de un 44 %. El financiamiento monetario alcanzó los 13 600 millones de gurdas pese a los compromisos asumidos ante el FMI. La visión del ministro Collin es clara: esta trayectoria debe cambiar — y eso comienza con disciplina, transparencia y la modernización de las instituciones financieras de Haití.",
+    "quote": "Cuando los precios suben y la moneda se deprecia, son las familias más frágiles quienes pagan el precio de la inestabilidad. La disciplina presupuestaria no es una opción, es una necesidad.",
+    "quoteAuthor": "Serge Gabriel Collin",
+
+    "pillars": {
+      "p1": {
+        "title": "Modernización fiscal y movilización de ingresos",
+        "desc": "Acelerar la teledeclaración, fortalecer los sistemas de datos de la DGI para el seguimiento de pagos en tiempo real, mejorar la recaudación en la AGD incluyendo la ampliación de los horarios de cobro, y fortalecer las capacidades de las administraciones fiscal y aduanera para que se conviertan en verdaderos motores de generación de ingresos internos.",
+        "keyActions": [
+          "Acelerar el despliegue de la teledeclaración como principal canal de pago de impuestos",
+          "Garantizar la disponibilidad en tiempo real de los datos de pago y recaudación en la DGI y la AGD",
+          "Mejorar la visibilidad sobre las acreencias de la Dirección de Grandes Contribuyentes",
+          "Coordinar con el BRH la optimización de los horarios de recaudación aduanera"
+        ]
+      },
+      "p2": {
+        "title": "Disciplina presupuestaria y estabilidad macroeconómica",
+        "desc": "Poner fin al ciclo de financiamiento monetario excesivo que deprecia la gurda y alimenta la inflación. Preparar un presupuesto rectificativo 2025–2026 alineado con las prioridades del gobierno, respetando los compromisos del programa SMP con el FMI. Cada decisión financiera debe guiarse por tres principios: el interés general, la transparencia y la eficiencia.",
+        "keyActions": [
+          "Preparar e implementar el presupuesto rectificativo 2025–2026",
+          "Limitar el financiamiento monetario para proteger la estabilidad macroeconómica",
+          "Honrar los compromisos del programa SMP gestionando al mismo tiempo las emergencias nacionales",
+          "Instaurar una toma de decisiones presupuestarias basada en evidencia"
+        ]
+      },
+      "p3": {
+        "title": "Inclusión financiera y protección social",
+        "desc": "Con base en su experiencia en el FAES, donde dirigió programas que alcanzaron a 250 000 hogares, el ministro Collin sabe que la política económica debe servir a los más vulnerables. La inclusión financiera implica garantizar que los beneficios de la estabilización fiscal lleguen a cada rincón de Haití — desde las familias desplazadas de Puerto Príncipe hasta las comunidades rurales de la Grand'Anse.",
+        "keyActions": [
+          "Ampliar la infraestructura de pagos digitales para las transferencias sociales",
+          "Fortalecer el registro social SIMAST para una mejor focalización de beneficiarios",
+          "Asegurar la continuidad de los programas de asistencia humanitaria",
+          "Promover la responsabilidad fiscal como compromiso nacional compartido"
+        ]
+      },
+      "p4": {
+        "title": "Alianzas internacionales y credibilidad institucional",
+        "desc": "La recuperación económica de Haití depende del mantenimiento y fortalecimiento de las alianzas con el FMI, el Banco Mundial, el BID y los socios bilaterales. La credibilidad se construye cumpliendo los compromisos, produciendo datos confiables y demostrando una gobernanza transparente — desde el ministerio hasta cada organismo autónomo bajo su tutela.",
+        "keyActions": [
+          "Mantener y profundizar el compromiso con el FMI a través del cumplimiento del programa SMP",
+          "Fortalecer la coordinación con el BID en los programas activos de protección social",
+          "Asegurar una gobernanza coherente en todos los organismos autónomos adscritos al MEF",
+          "Restablecer la confianza de los socios mediante una comunicación financiera transparente"
+        ]
+      }
+    }
+  },
+
+  "Actions": {
+    "label": "Acciones y logros",
+    "heading": "Resultados concretos para la economía haitiana",
+    "filters": {
+      "all": "Todos",
+      "reforms": "Reformas",
+      "partnerships": "Alianzas",
+      "humanitarian": "Humanitario",
+      "field": "Terreno"
+    },
+    "readMore": "Leer más",
+    "viewAll": "Ver todos los logros",
+    "items": {
+      "a1": {
+        "title": "Instalación oficial como ministro de Economía y Finanzas",
+        "date": "25 de febrero de 2026",
+        "categoryKey": "reforms",
+        "desc": "Instalado al frente del MEF con el mandato de imponer la disciplina presupuestaria, movilizar los ingresos internos y modernizar las administraciones fiscal y aduanera de Haití."
+      },
+      "a2": {
+        "title": "Inicio de la preparación del presupuesto rectificativo 2025–2026",
+        "date": "Febrero de 2026",
+        "categoryKey": "reforms",
+        "desc": "Prioridad inmediata para alinear las asignaciones presupuestarias con las prioridades del gobierno, reduciendo el déficit fiscal acumulado."
+      },
+      "a3": {
+        "title": "Nombramientos estratégicos en la DGI y el FAES",
+        "date": "23 de febrero de 2026",
+        "categoryKey": "reforms",
+        "desc": "En el marco de la reorganización ministerial, Chesnel François fue nombrado director general de la DGI y Kesner Romilus designado al frente del FAES, asegurando la continuidad institucional."
+      },
+      "a4": {
+        "title": "Operaciones humanitarias del FAES a gran escala",
+        "date": "2025",
+        "categoryKey": "humanitarian",
+        "desc": "Bajo la dirección del señor Collin como director general, el FAES distribuyó más de 218 000 kits alimentarios y sanitarios, desplegó 48 comedores comunitarios y realizó transferencias monetarias a cerca de 250 000 hogares vulnerables."
+      },
+      "a5": {
+        "title": "Taller de planificación estratégica con el BID — Cap-Haïtien",
+        "date": "Febrero de 2025",
+        "categoryKey": "partnerships",
+        "desc": "Conducción de una sesión de planificación estratégica de dos días con el Banco Interamericano de Desarrollo para armonizar la ejecución plurianual de los programas de seguridad alimentaria, salud e inclusión juvenil."
+      },
+      "a6": {
+        "title": "Alianza con Taiwán — donación de arroz y programa KORE-PEP",
+        "date": "2025",
+        "categoryKey": "partnerships",
+        "desc": "Negociación y recepción de 1350 toneladas de arroz y 750 000 dólares estadounidenses en apoyo directo de la Embajada de Taiwán para las poblaciones desplazadas."
+      },
+      "a7": {
+        "title": "Proyectos de infraestructura comunitaria en los 10 departamentos",
+        "date": "2025",
+        "categoryKey": "field",
+        "desc": "Puesta en marcha de proyectos de rehabilitación vial, construcción de cisternas de agua, renovación de centros de salud, creación de espacios públicos y programas de resiliencia ambiental en comunas desde Bassin Bleu hasta Port-Salut, de Beaumont a Marmelade."
+      },
+      "a8": {
+        "title": "Programa de inserción juvenil alcanza una tasa del 93 %",
+        "date": "2021–2024",
+        "categoryKey": "field",
+        "desc": "El programa HA-L1137, financiado por el BID y gestionado por el FAES, alcanzó una tasa de inserción profesional del 93 % entre 64 629 jóvenes beneficiarios, con un 100 % de inserción femenina en el último año."
+      },
+      "a9": {
+        "title": "Inauguración del primer centro para niños en situación de calle",
+        "date": "Mayo de 2025",
+        "categoryKey": "humanitarian",
+        "desc": "Inauguración del primer Centro de Acogida y Reinserción para Niños en Situación de Calle en Haití, en alianza con la Policía Comunitaria."
+      },
+      "a10": {
+        "title": "Protocolo sanitario con el MSPP — HA-J0008",
+        "date": "Julio de 2025",
+        "categoryKey": "partnerships",
+        "desc": "Firma de un protocolo de acuerdo con el Ministerio de Salud Pública y de la Población para el componente de salud del Programa Comunitario de Promoción de la Seguridad Humana, por un monto de 110 millones de dólares."
+      }
+    }
+  },
+
+  "News": {
+    "label": "Noticias",
+    "heading": "Últimas noticias y comunicados de prensa",
+    "readArticle": "Leer el artículo",
+    "allNews": "Todas las noticias",
+    "featured": {
+      "title": "El ministro Collin, instalado al frente del Ministerio de Economía y Finanzas",
+      "date": "25 de febrero de 2026",
+      "category": "Oficial",
+      "excerpt": "Serge Gabriel Collin fue instalado oficialmente como ministro de Economía y Finanzas durante una ceremonia en el MEF, presentando sus prioridades inmediatas: disciplina presupuestaria, movilización de ingresos y presupuesto rectificativo alineado con los objetivos del gobierno y los compromisos ante el FMI."
+    },
+    "articles": {
+      "a1": {
+        "title": "Consejo de Ministros: el PM Fils-Aimé inicia la reorganización con cambios estratégicos en el MEF, el FAES y la DGI",
+        "date": "23 de febrero de 2026",
+        "category": "Comunicado"
+      },
+      "a2": {
+        "title": "Collin nombrado director de gabinete en el Ministerio de Economía y Finanzas",
+        "date": "9 de febrero de 2026",
+        "category": "Nombramiento"
+      },
+      "a3": {
+        "title": "Informe anual del FAES: 9450 millones de HTG desembolsados en el ejercicio 2024–2025",
+        "date": "Octubre de 2025",
+        "category": "Informe"
+      },
+      "a4": {
+        "title": "El gobierno promete apoyo financiero a 290 000 hogares vulnerables a través del FAES",
+        "date": "2025",
+        "category": "Política social"
+      },
+      "a5": {
+        "title": "La Embajada de Taiwán entrega 750 000 dólares al FAES para las personas desplazadas internas",
+        "date": "2025",
+        "category": "Cooperación internacional"
+      }
+    }
+  },
+
+  "Media": {
+    "label": "Medios",
+    "heading": "En imágenes",
+    "tabs": { "photos": "Fotos", "videos": "Videos", "press": "Prensa" },
+    "eventCaption": "Evento oficial",
+    "photoGalleries": {
+      "g1": {
+        "title": "Ceremonia de instalación en el MEF",
+        "date": "25 de febrero de 2026"
+      },
+      "g2": { "title": "Operaciones humanitarias del FAES", "date": "2025" },
+      "g3": {
+        "title": "Taller de planificación estratégica con el BID — Cap-Haïtien",
+        "date": "Febrero de 2025"
+      },
+      "g4": {
+        "title": "Proyectos de infraestructura comunitaria",
+        "date": "2025"
+      },
+      "g5": { "title": "Ceremonia de alianza con Taiwán", "date": "2025" }
+    },
+    "videos": {
+      "v1": {
+        "title": "Discurso de instalación en el MEF",
+        "date": "Febrero de 2026"
+      },
+      "v2": {
+        "title": "Informe sobre las operaciones del FAES",
+        "date": "2025"
+      },
+      "v3": {
+        "title": "Entrevista — Visión económica para Haití",
+        "date": "2026"
+      }
+    },
+    "press": {
+      "p1": {
+        "pub": "Le Nouvelliste",
+        "title": "Serge Gabriel Collin, instalado al frente del Ministerio de Economía y Finanzas",
+        "date": "Febrero de 2026"
+      },
+      "p2": {
+        "pub": "Haiti24",
+        "title": "Collin oficialmente instalado en el MEF — hoja de ruta para la recuperación fiscal",
+        "date": "Febrero de 2026"
+      },
+      "p3": {
+        "pub": "Vant Bèf Info (VBI)",
+        "title": "El nuevo ministro establece la disciplina presupuestaria como prioridad central",
+        "date": "Febrero de 2026"
+      },
+      "p4": {
+        "pub": "Gazette Haïti",
+        "title": "Collin asume las riendas del Ministerio de Economía",
+        "date": "Febrero de 2026"
+      },
+      "p5": {
+        "pub": "Le National",
+        "title": "Nuevos nombramientos: Collin en el MEF, François en la DGI, Romilus en el FAES",
+        "date": "Febrero de 2026"
+      }
+    },
+    "read": "Leer",
+    "downloadPressKit": "Descargar dossier de prensa"
+  },
+
+  "Contact": {
+    "label": "Contacto",
+    "heading": "Contáctenos",
+    "cabinetTitle": "Despacho del ministro de Economía y Finanzas",
+    "location": "Puerto Príncipe, Haití",
+    "phone": "+509 XX XX XXXX",
+    "email": "contact@sergegabrielcollin.com",
+    "fields": {
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "subject": "Asunto",
+      "message": "Mensaje"
+    },
+    "subjects": {
+      "press": "Consulta de prensa",
+      "partnership": "Oportunidad de alianza",
+      "official": "Solicitud oficial",
+      "other": "Otro"
+    },
+    "submit": "Enviar mensaje",
+    "responseTime": "Respuesta en un plazo de 48 horas hábiles"
+  },
+
+  "Footer": {
+    "name": "Serge Gabriel Collin",
+    "role": "Ministro de Economía y Finanzas",
+    "quote": "Liderazgo con acción.\nExcelencia con rigor.",
+    "navigationLabel": "Navegación",
+    "contactLabel": "Contacto",
+    "cabinetTitle": "Despacho del ministro",
+    "cabinetSubtitle": "de Economía y Finanzas",
+    "location": "Puerto Príncipe, Haití",
+    "phone": "+509 XX XX XXXX",
+    "email": "contact@sergegabrielcollin.com",
+    "republicLabel": "República de Haití",
+    "republicDescription": "Sitio oficial del ministro de Economía y Finanzas de la República de Haití.",
+    "copyright": "© 2026 Serge Gabriel Collin. Todos los derechos reservados.",
+    "bottomRepublic": "República de Haití"
+  },
+
+  "_NOTAS_TRADUCCION": {
+    "nota": "Traducción completa al español del contenido del sitio oficial del ministro Serge Gabriel Collin. El español utilizado sigue el registro institucional y diplomático latinoamericano, con atención especial a la terminología del Caribe hispanohablante y las convenciones de organismos internacionales (BID, FMI, Banco Mundial).",
+    "convenciones": [
+      "«ministro» en minúscula cuando no encabeza un título formal, conforme a las normas de la RAE",
+      "«Ministerio de Economía y Finanzas» — mayúsculas en sustantivos del nombre propio institucional",
+      "«Banco Interamericano de Desarrollo (BID)» — denominación oficial en español",
+      "«Dirección General de Impuestos (DGI)» y «Administración General de Aduanas (AGD)» — se mantienen las siglas originales en francés por ser las denominaciones oficiales haitianas",
+      "«gurda» — forma hispanizada de «gourde», la moneda haitiana; también aceptable «gourde»",
+      "Números: punto como separador de miles en español (14 700 millones), coma como separador decimal",
+      "Fechas: formato «día de mes de año» (25 de febrero de 2026)",
+      "«Taiwán» con tilde — ortografía española estándar según la RAE",
+      "«Puerto Príncipe» — topónimo oficial en español para Port-au-Prince",
+      "«Programa Mundial de Alimentos (PMA)» — denominación oficial en español del WFP",
+      "«San Cristóbal y Nieves» — topónimo oficial en español para Saint Kitts and Nevis",
+      "«Comunidad del Caribe (CARICOM)» — denominación oficial en español",
+      "Se usa «usted» implícito (registro formal) en todo el contenido dirigido al público",
+      "«alianza» en lugar de «partnership» — término preferido en el registro diplomático latinoamericano"
+    ],
+    "archivoFuente": "sgc-website-content-complete.json (versión en inglés)",
+    "fechaTraduccion": "26 de febrero de 2026"
+  }
+}
