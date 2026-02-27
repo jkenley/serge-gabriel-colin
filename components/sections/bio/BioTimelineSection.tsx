@@ -120,9 +120,8 @@ export default function BioTimelineSection() {
         </Box>
 
         <Stack gap="4">
-          {/* Row 1 — Timeline cards (scrolls left → chronological flow) */}
+          {/* Row 1 — Timeline cards (scrolls right → left, chronological) */}
           <Marquee.Root
-            reverse
             pauseOnInteraction
             speed={25}
             autoFill
@@ -148,6 +147,7 @@ export default function BioTimelineSection() {
           {/* Row 2 — Achievements ticker (opposite direction) */}
           <Box h="px" bg="brand.gold/10" />
           <Marquee.Root
+            reverse
             autoFill
             speed={20}
             spacing="0rem"
