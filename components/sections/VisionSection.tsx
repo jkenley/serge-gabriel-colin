@@ -1,6 +1,6 @@
 "use client";
 
-import { Box, Flex, Grid, Heading, Text } from "@chakra-ui/react";
+import { Blockquote, Box, Flex, Grid, Heading, Text } from "@chakra-ui/react";
 import { motion } from "motion/react";
 import { useTranslations } from "next-intl";
 import SectionLabel from "@/components/SectionLabel";
@@ -64,32 +64,36 @@ export default function VisionSection() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.5, delay: 0.15 }}
-          textAlign="center"
-          maxW="2xl"
-          mx="auto"
           mb={{ base: "16", lg: "20" }}
         >
-          <Box w="10" h="2px" bg="brand.gold" mx="auto" mb="6" />
-          <Text
-            fontFamily="heading"
-            fontStyle="italic"
-            fontSize={{ base: "xl", lg: "2xl" }}
-            color="brand.foreground"
-            lineHeight="relaxed"
+          <Blockquote.Root
+            variant="plain"
+            textAlign="center"
+            maxW="2xl"
+            mx="auto"
           >
-            {t("quote")}
-          </Text>
-          <Box w="10" h="2px" bg="brand.gold" mx="auto" mt="6" mb="4" />
-          <Text
-            fontFamily="body"
-            fontSize="caption"
-            fontWeight="600"
-            color="fg.accent"
-            letterSpacing="labelSm"
-            textTransform="uppercase"
-          >
-            {t("quoteAuthor")}
-          </Text>
+            <Box w="10" h="2px" bg="brand.gold" mx="auto" mb="6" />
+            <Blockquote.Content
+              fontFamily="heading"
+              fontStyle="italic"
+              fontSize={{ base: "xl", lg: "2xl" }}
+              color="brand.foreground"
+              lineHeight="relaxed"
+            >
+              {t("quote")}
+            </Blockquote.Content>
+            <Box w="10" h="2px" bg="brand.gold" mx="auto" mt="6" mb="4" />
+            <Blockquote.Caption
+              fontFamily="body"
+              fontSize="caption"
+              fontWeight="600"
+              color="fg.accent"
+              letterSpacing="labelSm"
+              textTransform="uppercase"
+            >
+              {t("quoteAuthor")}
+            </Blockquote.Caption>
+          </Blockquote.Root>
         </MotionBox>
 
         {/* ── Pillars — clean 2x2 grid ── */}

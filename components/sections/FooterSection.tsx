@@ -1,6 +1,14 @@
 "use client";
 
-import { Box, Flex, Grid, HStack, Text, VStack } from "@chakra-ui/react";
+import {
+  Blockquote,
+  Box,
+  Flex,
+  Grid,
+  HStack,
+  Text,
+  VStack,
+} from "@chakra-ui/react";
 import { Mail, MapPin, Phone } from "lucide-react";
 import { useLocale, useTranslations } from "next-intl";
 import React from "react";
@@ -98,27 +106,31 @@ export default function FooterSection() {
             </Text>
           </Box>
 
-          <Text
-            fontFamily="heading"
-            fontStyle="italic"
-            fontSize={{ base: "md", lg: "lg" }}
-            color="whiteAlpha.300"
+          <Blockquote.Root
+            variant="plain"
             maxW="sm"
-            lineHeight="body"
             textAlign={{ base: "left", lg: "right" }}
           >
-            &ldquo;
-            {t
-              .raw("quote")
-              .split("\n")
-              .map((line: string, i: number) => (
-                <React.Fragment key={i}>
-                  {line}
-                  {i === 0 && <br />}
-                </React.Fragment>
-              ))}
-            &rdquo;
-          </Text>
+            <Blockquote.Content
+              fontFamily="heading"
+              fontStyle="italic"
+              fontSize={{ base: "md", lg: "lg" }}
+              color="whiteAlpha.300"
+              lineHeight="body"
+            >
+              &ldquo;
+              {t
+                .raw("quote")
+                .split("\n")
+                .map((line: string, i: number) => (
+                  <React.Fragment key={i}>
+                    {line}
+                    {i === 0 && <br />}
+                  </React.Fragment>
+                ))}
+              &rdquo;
+            </Blockquote.Content>
+          </Blockquote.Root>
         </Flex>
 
         {/* ── Middle: Nav + Contact ── */}

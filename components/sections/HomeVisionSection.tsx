@@ -1,6 +1,6 @@
 "use client";
 
-import { Box, Flex, Heading, Span, Text } from "@chakra-ui/react";
+import { Blockquote, Box, Flex, Heading, Span, Text } from "@chakra-ui/react";
 import { motion } from "motion/react";
 import { useTranslations } from "next-intl";
 import SectionLabel from "@/components/SectionLabel";
@@ -73,27 +73,29 @@ export default function HomeVisionSection() {
           mb={{ base: "12", lg: "14" }}
           maxW="2xl"
         >
-          <Box w="10" h="2px" bg="brand.gold" mb="6" />
-          <Text
-            fontFamily="heading"
-            fontStyle="italic"
-            fontSize={{ base: "lg", lg: "xl" }}
-            color="whiteAlpha.700"
-            lineHeight="loose"
-          >
-            {t("quote")}
-          </Text>
-          <Text
-            fontFamily="body"
-            fontSize="caption"
-            fontWeight="600"
-            color="fg.accent"
-            letterSpacing="labelSm"
-            textTransform="uppercase"
-            mt="5"
-          >
-            {t("quoteAuthor")}
-          </Text>
+          <Blockquote.Root variant="plain">
+            <Box w="10" h="2px" bg="brand.gold" mb="6" />
+            <Blockquote.Content
+              fontFamily="heading"
+              fontStyle="italic"
+              fontSize={{ base: "lg", lg: "xl" }}
+              color="whiteAlpha.700"
+              lineHeight="loose"
+            >
+              {t("quote")}
+            </Blockquote.Content>
+            <Blockquote.Caption
+              fontFamily="body"
+              fontSize="caption"
+              fontWeight="600"
+              color="fg.accent"
+              letterSpacing="labelSm"
+              textTransform="uppercase"
+              mt="5"
+            >
+              {t("quoteAuthor")}
+            </Blockquote.Caption>
+          </Blockquote.Root>
         </MotionBox>
 
         {/* ── Pillars preview ── */}

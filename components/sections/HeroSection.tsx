@@ -1,6 +1,7 @@
 "use client";
 
 import {
+  Blockquote,
   Box,
   Flex,
   Heading,
@@ -172,29 +173,34 @@ export default function HeroSection() {
               </MotionText>
 
               {/* Quote */}
-              <MotionText
+              <MotionBox
                 initial={{ opacity: 0, y: 10 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6, delay: 0.65 }}
-                fontFamily="heading"
-                fontStyle="italic"
-                fontSize={{ base: "md", lg: "lg" }}
-                color="whiteAlpha.500"
-                lineHeight="relaxed"
                 maxW="sm"
               >
-                &ldquo;
-                {t
-                  .raw("quote")
-                  .split("\n")
-                  .map((line: string, i: number) => (
-                    <React.Fragment key={i}>
-                      {line}
-                      {i === 0 && <br />}
-                    </React.Fragment>
-                  ))}
-                &rdquo;
-              </MotionText>
+                <Blockquote.Root variant="plain">
+                  <Blockquote.Content
+                    fontFamily="heading"
+                    fontStyle="italic"
+                    fontSize={{ base: "md", lg: "lg" }}
+                    color="whiteAlpha.500"
+                    lineHeight="relaxed"
+                  >
+                    &ldquo;
+                    {t
+                      .raw("quote")
+                      .split("\n")
+                      .map((line: string, i: number) => (
+                        <React.Fragment key={i}>
+                          {line}
+                          {i === 0 && <br />}
+                        </React.Fragment>
+                      ))}
+                    &rdquo;
+                  </Blockquote.Content>
+                </Blockquote.Root>
+              </MotionBox>
 
               {/* CTA */}
               <MotionFlex

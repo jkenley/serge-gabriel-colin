@@ -1,6 +1,6 @@
 "use client";
 
-import { Box, Text, VStack } from "@chakra-ui/react";
+import { Blockquote, Box, VStack } from "@chakra-ui/react";
 import { motion } from "motion/react";
 import { useTranslations } from "next-intl";
 
@@ -18,39 +18,32 @@ export default function BioQuoteSection() {
           viewport={{ once: true }}
           transition={{ duration: 0.5 }}
         >
-          <VStack gap={{ base: "6", lg: "8" }} maxW="2xl" mx="auto">
-            {/* Top divider */}
-            <Box w="12" h="2px" bg="brand.gold" />
-
-            {/* Quote */}
-            <Text
-              fontFamily="heading"
-              fontStyle="italic"
-              fontSize={{ base: "xl", md: "2xl", lg: "3xl" }}
-              color="brand.foreground"
-              lineHeight="relaxed"
-              textAlign="center"
-              letterSpacing="headingTight"
-            >
-              &ldquo;{t("quote.text")}&rdquo;
-            </Text>
-
-            {/* Bottom divider */}
-            <Box w="12" h="2px" bg="brand.gold" />
-
-            {/* Attribution */}
-            <Text
-              fontFamily="body"
-              fontSize="caption"
-              fontWeight="600"
-              color="fg.accent"
-              letterSpacing="labelSm"
-              textTransform="uppercase"
-              textAlign="center"
-            >
-              {t("quote.source")}
-            </Text>
-          </VStack>
+          <Blockquote.Root variant="plain" maxW="2xl" mx="auto">
+            <VStack gap={{ base: "6", lg: "8" }} textAlign="center">
+              <Box w="12" h="2px" bg="brand.gold" />
+              <Blockquote.Content
+                fontFamily="heading"
+                fontStyle="italic"
+                fontSize={{ base: "xl", md: "2xl", lg: "3xl" }}
+                color="brand.foreground"
+                lineHeight="relaxed"
+                letterSpacing="headingTight"
+              >
+                &ldquo;{t("quote.text")}&rdquo;
+              </Blockquote.Content>
+              <Box w="12" h="2px" bg="brand.gold" />
+              <Blockquote.Caption
+                fontFamily="body"
+                fontSize="caption"
+                fontWeight="600"
+                color="fg.accent"
+                letterSpacing="labelSm"
+                textTransform="uppercase"
+              >
+                {t("quote.source")}
+              </Blockquote.Caption>
+            </VStack>
+          </Blockquote.Root>
         </MotionBox>
       </Box>
     </Box>
