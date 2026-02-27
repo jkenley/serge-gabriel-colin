@@ -109,7 +109,7 @@ export default function FooterSection() {
             variant="plain"
             maxW="sm"
             textAlign={{ base: "left", lg: "right" }}
-            p="0"
+            px="0"
           >
             <Blockquote.Content
               fontFamily="heading"
@@ -137,8 +137,8 @@ export default function FooterSection() {
         <Grid
           templateColumns={{ base: "1fr", md: "1fr 1fr 1fr" }}
           gap={{ base: "8", md: "10", lg: "16" }}
-          py={{ base: "0", lg: "14" }}
-          pb={{ base: "8", lg: "0" }}
+          pt={{ base: "0", lg: "8" }}
+          pb="8"
         >
           {/* Navigation */}
           <Box>

@@ -44,10 +44,12 @@ export default function HomeBioSection() {
             />
             <Box
               position="relative"
+              maxH={{ base: "500px", lg: "full" }}
               aspectRatio="4/5"
               rounded="lg"
               overflow="hidden"
               zIndex="1"
+              w="full"
             >
               <Image
                 src="/serge_gabriel_colin.jpg"
