@@ -143,6 +143,14 @@
     "bio2suffix": "de la République d'Haïti — avec une connaissance institutionnelle approfondie et une capacité éprouvée à produire des résultats sous une pression exceptionnelle.",
     "readFullBio": "Lire la biographie complète",
     "timelineLabel": "Parcours professionnel",
+    "highlightsLabel": "Impact et réalisations",
+    "prioritiesLabel": "Priorités immédiates",
+    "faesStats": {
+      "s1": { "value": "14,7 Mrd+", "label": "Budget HTG géré" },
+      "s2": { "value": "250K", "label": "Ménages touchés" },
+      "s3": { "value": "260M$+", "label": "Programmes BID" },
+      "s4": { "value": "93%", "label": "Taux d'insertion jeunes" }
+    },
 
     "sections": {
       "intro": {

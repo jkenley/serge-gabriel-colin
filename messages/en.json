@@ -143,6 +143,14 @@
     "bio2suffix": "of the Republic of Haiti — bringing deep institutional knowledge and a proven record of results under extraordinary pressure.",
     "readFullBio": "Read full biography",
     "timelineLabel": "Career Timeline",
+    "highlightsLabel": "Impact Highlights",
+    "prioritiesLabel": "Initial Priorities",
+    "faesStats": {
+      "s1": { "value": "14.7B+", "label": "HTG Budget Managed" },
+      "s2": { "value": "250K", "label": "Households Reached" },
+      "s3": { "value": "$260M+", "label": "IDB Programs" },
+      "s4": { "value": "93%", "label": "Youth Insertion Rate" }
+    },
 
     "sections": {
       "intro": {

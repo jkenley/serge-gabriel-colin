@@ -1,6 +1,12 @@
-import { Box } from "@chakra-ui/react";
 import type { Metadata } from "next";
-import AboutSection from "@/components/sections/AboutSection";
+import BioFaesSection from "@/components/sections/bio/BioFaesSection";
+import BioGovernmentSection from "@/components/sections/bio/BioGovernmentSection";
+import BioHeroSection from "@/components/sections/bio/BioHeroSection";
+import BioNarrativeSection from "@/components/sections/bio/BioNarrativeSection";
+import BioPhilosophySection from "@/components/sections/bio/BioPhilosophySection";
+import BioQuoteSection from "@/components/sections/bio/BioQuoteSection";
+import BioTimelineSection from "@/components/sections/bio/BioTimelineSection";
+import HomeCTASection from "@/components/sections/HomeCTASection";
 import { getPageSEO } from "@/lib/seo/metadata";
 
 export async function generateMetadata({
@@ -14,8 +20,15 @@ export async function generateMetadata({
 
 export default function BiographiePage() {
   return (
-    <Box pt={{ base: "16", lg: "20" }}>
-      <AboutSection />
-    </Box>
+    <>
+      <BioHeroSection />
+      <BioNarrativeSection />
+      <BioFaesSection />
+      <BioGovernmentSection />
+      <BioQuoteSection />
+      <BioPhilosophySection />
+      <BioTimelineSection />
+      <HomeCTASection />
+    </>
   );
 }

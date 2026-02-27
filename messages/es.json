@@ -143,6 +143,14 @@
     "bio2suffix": "de la República de Haití — aportando un profundo conocimiento institucional y una trayectoria comprobada de resultados bajo presión extraordinaria.",
     "readFullBio": "Leer la biografía completa",
     "timelineLabel": "Trayectoria profesional",
+    "highlightsLabel": "Logros destacados",
+    "prioritiesLabel": "Prioridades iniciales",
+    "faesStats": {
+      "s1": { "value": "14 700M+", "label": "Presupuesto HTG gestionado" },
+      "s2": { "value": "250K", "label": "Hogares alcanzados" },
+      "s3": { "value": "260M$+", "label": "Programas BID" },
+      "s4": { "value": "93%", "label": "Tasa de inserción juvenil" }
+    },
 
     "sections": {
       "intro": {
