@@ -75,16 +75,16 @@ export default function ActionsGridSection() {
             variant="plain"
             size="sm"
           >
-            <Tabs.List gap="1" display="inline-flex">
+            <Tabs.List gap="2" display="flex" flexWrap="wrap">
               {filterKeys.map((key) => (
                 <Tabs.Trigger
                   key={key}
                   value={key}
                   fontFamily="body"
-                  fontSize="sm"
+                  fontSize={{ base: "xs", md: "sm" }}
                   fontWeight="500"
                   px={{ base: "3", md: "5" }}
-                  py="2"
+                  py={{ base: "1.5", md: "2" }}
                   rounded="full"
                   color="brand.muted"
                   border="1px solid"

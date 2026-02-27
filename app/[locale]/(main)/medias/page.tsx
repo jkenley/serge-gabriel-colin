@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
-import HomeCTASection from "@/components/sections/HomeCTASection";
 import MediaGallerySection from "@/components/sections/media/MediaGallerySection";
 import MediaHeroSection from "@/components/sections/media/MediaHeroSection";
+import HomeCTASection from "@/components/sections/shared/HomeCTASection";
 import { getPageSEO } from "@/lib/seo/metadata";
 
 export async function generateMetadata({

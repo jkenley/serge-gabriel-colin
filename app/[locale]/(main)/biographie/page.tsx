@@ -6,7 +6,7 @@ import BioNarrativeSection from "@/components/sections/bio/BioNarrativeSection";
 import BioPhilosophySection from "@/components/sections/bio/BioPhilosophySection";
 import BioQuoteSection from "@/components/sections/bio/BioQuoteSection";
 import BioTimelineSection from "@/components/sections/bio/BioTimelineSection";
-import HomeCTASection from "@/components/sections/HomeCTASection";
+import HomeCTASection from "@/components/sections/shared/HomeCTASection";
 import { getPageSEO } from "@/lib/seo/metadata";
 
 export async function generateMetadata({

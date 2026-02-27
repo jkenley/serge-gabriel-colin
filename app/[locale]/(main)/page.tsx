@@ -1,13 +1,13 @@
-import HeroSection from "@/components/sections/HeroSection";
-import HomeBioSection from "@/components/sections/HomeBioSection";
-import HomeCTASection from "@/components/sections/HomeCTASection";
-import HomeNewsSection from "@/components/sections/HomeNewsSection";
-import HomeVisionSection from "@/components/sections/HomeVisionSection";
+import HomeBioSection from "@/components/sections/home/HomeBioSection";
+import HomeHeroSection from "@/components/sections/home/HomeHeroSection";
+import HomeNewsSection from "@/components/sections/home/HomeNewsSection";
+import HomeVisionSection from "@/components/sections/home/HomeVisionSection";
+import HomeCTASection from "@/components/sections/shared/HomeCTASection";
 
 export default function Home() {
   return (
     <>
-      <HeroSection />
+      <HomeHeroSection />
       <HomeBioSection />
       <HomeVisionSection />
       <HomeNewsSection />

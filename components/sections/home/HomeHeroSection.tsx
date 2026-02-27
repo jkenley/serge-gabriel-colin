@@ -66,8 +66,8 @@ function Counter({ target, suffix }: { target: number; suffix: string }) {
   );
 }
 
-/* ───────────────── Hero — Option 4: Centered Monumental ───────────────── */
-export default function HeroSection() {
+/* ───────────────── Home Hero ───────────────── */
+export default function HomeHeroSection() {
   const t = useTranslations("Hero");
 
   const stats = [
@@ -179,7 +179,7 @@ export default function HeroSection() {
                 transition={{ duration: 0.6, delay: 0.65 }}
                 maxW="sm"
               >
-                <Blockquote.Root variant="plain">
+                <Blockquote.Root variant="plain" p="0">
                   <Blockquote.Content
                     fontFamily="heading"
                     fontStyle="italic"

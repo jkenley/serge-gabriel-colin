@@ -2,9 +2,11 @@
 
 import { Box, Flex, Heading, Text, VStack } from "@chakra-ui/react";
 import { useRouter } from "next/navigation";
+import { useTranslations } from "next-intl";
 import Monogram from "@/components/Monogram";
 
 export default function NotFound() {
+  const t = useTranslations("NotFound");
   const router = useRouter();
 
   return (
@@ -62,7 +64,7 @@ export default function NotFound() {
               color="white"
               letterSpacing="headingTight"
             >
-              Page not found
+              {t("heading")}
             </Heading>
             <Text
               fontFamily="body"
@@ -71,7 +73,7 @@ export default function NotFound() {
               lineHeight="body"
               maxW="xs"
             >
-              The page you are looking for does not exist or has been moved.
+              {t("description")}
             </Text>
           </VStack>
 
@@ -92,7 +94,7 @@ export default function NotFound() {
             transition="all 300ms"
             _hover={{ bg: "brand.gold.light" }}
           >
-            Return home
+            {t("button")}
           </Box>
 
           {/* Bottom accent */}

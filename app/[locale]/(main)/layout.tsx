@@ -1,6 +1,6 @@
 import Navbar from "@/components/Navbar";
 import ScrollToTop from "@/components/ScrollToTop";
-import FooterSection from "@/components/sections/FooterSection";
+import FooterSection from "@/components/sections/shared/FooterSection";
 
 export default function MainLayout({
   children,

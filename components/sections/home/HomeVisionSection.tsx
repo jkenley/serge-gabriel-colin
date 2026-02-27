@@ -150,7 +150,7 @@ export default function HomeVisionSection() {
                 </Text>
                 <Text
                   fontFamily="heading"
-                  fontSize="sm"
+                  fontSize="md"
                   fontWeight="600"
                   color="whiteAlpha.600"
                   lineHeight="subheading"

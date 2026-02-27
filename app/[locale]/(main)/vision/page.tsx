@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import HomeCTASection from "@/components/sections/HomeCTASection";
+import HomeCTASection from "@/components/sections/shared/HomeCTASection";
 import VisionHeroSection from "@/components/sections/vision/VisionHeroSection";
 import VisionPillarsSection from "@/components/sections/vision/VisionPillarsSection";
 import VisionQuoteSection from "@/components/sections/vision/VisionQuoteSection";

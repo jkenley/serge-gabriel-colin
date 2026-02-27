@@ -1,28 +1,28 @@
 {
   "SEO": {
     "home": {
-      "title": "Serge Gabriel Collin — Ministre de l'Économie et des Finances | République d'Haïti",
-      "description": "Site officiel de Serge Gabriel Collin, ministre de l'Économie et des Finances de la République d'Haïti. Une carrière au service du développement économique d'Haïti — le leadership par l'action, l'excellence par la rigueur."
+      "title": "Serge Gabriel Colin — Ministre de l'Économie et des Finances | République d'Haïti",
+      "description": "Site officiel de Serge Gabriel Colin, ministre de l'Économie et des Finances de la République d'Haïti. Une carrière au service du développement économique d'Haïti — le leadership par l'action, l'excellence par la rigueur."
     },
     "biographie": {
-      "title": "Biographie — Serge Gabriel Collin | Ministre de l'Économie et des Finances",
-      "description": "Parcours et biographie de Serge Gabriel Collin, ministre de l'Économie et des Finances de la République d'Haïti. De directeur général du FAES à la tête du redressement économique d'Haïti."
+      "title": "Biographie — Serge Gabriel Colin | Ministre de l'Économie et des Finances",
+      "description": "Parcours et biographie de Serge Gabriel Colin, ministre de l'Économie et des Finances de la République d'Haïti. De directeur général du FAES à la tête du redressement économique d'Haïti."
     },
     "vision": {
-      "title": "Vision — Serge Gabriel Collin | Bâtir une économie résiliente pour Haïti",
-      "description": "Vision économique et axes stratégiques du ministre Serge Gabriel Collin : modernisation fiscale, discipline budgétaire, inclusion financière et partenariats internationaux pour le développement d'Haïti."
+      "title": "Vision — Serge Gabriel Colin | Bâtir une économie résiliente pour Haïti",
+      "description": "Vision économique et axes stratégiques du ministre Serge Gabriel Colin : modernisation fiscale, discipline budgétaire, inclusion financière et partenariats internationaux pour le développement d'Haïti."
     },
     "actions": {
-      "title": "Actions et réalisations — Serge Gabriel Collin",
-      "description": "Actions concrètes et réalisations du ministre Serge Gabriel Collin — de la réforme fiscale à la réponse humanitaire et à la modernisation des finances publiques."
+      "title": "Actions et réalisations — Serge Gabriel Colin",
+      "description": "Actions concrètes et réalisations du ministre Serge Gabriel Colin — de la réforme fiscale à la réponse humanitaire et à la modernisation des finances publiques."
     },
     "actualites": {
-      "title": "Actualités — Serge Gabriel Collin | Ministre de l'Économie et des Finances",
+      "title": "Actualités — Serge Gabriel Colin | Ministre de l'Économie et des Finances",
       "description": "Dernières actualités, communiqués de presse et communications officielles du ministre de l'Économie et des Finances de la République d'Haïti."
     },
     "medias": {
-      "title": "Médias — Serge Gabriel Collin",
-      "description": "Photos, vidéos et couverture médiatique des engagements officiels et communications publiques du ministre Serge Gabriel Collin."
+      "title": "Médias — Serge Gabriel Colin",
+      "description": "Photos, vidéos et couverture médiatique des engagements officiels et communications publiques du ministre Serge Gabriel Colin."
     },
     "contact": {
       "title": "Contact — Cabinet du ministre de l'Économie et des Finances | République d'Haïti",
@@ -43,12 +43,12 @@
 
   "Hero": {
     "republic": "République d'Haïti",
-    "name": "Serge G. Collin",
+    "name": "Serge Gabriel Colin",
     "role": "Ministre de l'Économie et des Finances",
     "quote": "Le leadership par l'action.\nL'excellence par la rigueur.",
     "ctaPrimary": "Découvrir mon parcours",
     "ctaSecondary": "Contact",
-    "imageAlt": "Serge Gabriel Collin — Ministre de l'Économie et des Finances de la République d'Haïti",
+    "imageAlt": "Serge Gabriel Colin — Ministre de l'Économie et des Finances de la République d'Haïti",
     "stats": {
       "experience": {
         "value": "15",
@@ -76,16 +76,16 @@
   "HomeBio": {
     "label": "À propos",
     "heading": "Une carrière au service du développement économique d'Haïti",
-    "body": "Serge Gabriel Collin est un économiste et administrateur public haïtien reconnu pour son engagement indéfectible en faveur du développement économique durable de la République d'Haïti. Fort de plus de quinze années d'expérience dans la gestion de projets de grande envergure, la coopération internationale et les finances publiques, il apporte au ministère de l'Économie et des Finances une combinaison rare de maîtrise technique et de leadership opérationnel, forgée dans les conditions les plus exigeantes.",
+    "body": "Serge Gabriel Colin est un économiste et administrateur public haïtien reconnu pour son engagement indéfectible en faveur du développement économique durable de la République d'Haïti. Fort de plus de quinze années d'expérience dans la gestion de projets de grande envergure, la coopération internationale et les finances publiques, il apporte au ministère de l'Économie et des Finances une combinaison rare de maîtrise technique et de leadership opérationnel, forgée dans les conditions les plus exigeantes.",
     "cta": "Lire la biographie complète",
-    "imageAlt": "Serge Gabriel Collin — Ministre de l'Économie et des Finances"
+    "imageAlt": "Serge Gabriel Colin — Ministre de l'Économie et des Finances"
   },
 
   "HomeVision": {
     "label": "Vision",
     "heading": "Bâtir une économie résiliente et inclusive pour Haïti",
     "quote": "Je suis convaincu que le potentiel économique d'Haïti est immense. Notre mission est de créer les conditions pour que ce potentiel se concrétise — par la discipline budgétaire, la modernisation institutionnelle et l'effort collectif de chaque citoyen haïtien.",
-    "quoteAuthor": "Serge Gabriel Collin",
+    "quoteAuthor": "Serge Gabriel Colin",
     "axesLabel": "Axes stratégiques",
     "pillars": {
       "p1": "Modernisation fiscale",
@@ -103,10 +103,10 @@
     "readArticle": "Lire l'article",
     "headlinesLabel": "À la une",
     "featured": {
-      "title": "Le ministre Collin officiellement installé à la tête du ministère de l'Économie et des Finances",
+      "title": "Le ministre Colin officiellement installé à la tête du ministère de l'Économie et des Finances",
       "date": "25 février 2026",
       "category": "Officiel",
-      "excerpt": "Lors d'une cérémonie présidée par le ministre de la Justice Patrick Pélissier, Serge Gabriel Collin a été officiellement installé en tant que ministre de l'Économie et des Finances, présentant une feuille de route axée sur la discipline budgétaire, la mobilisation des recettes internes et le respect des engagements internationaux."
+      "excerpt": "Lors d'une cérémonie présidée par le ministre de la Justice Patrick Pélissier, Serge Gabriel Colin a été officiellement installé en tant que ministre de l'Économie et des Finances, présentant une feuille de route axée sur la discipline budgétaire, la mobilisation des recettes internes et le respect des engagements internationaux."
     },
     "news": {
       "item1": {
@@ -133,11 +133,23 @@
     "button": "Nous contacter"
   },
 
+  "ErrorPage": {
+    "heading": "Une erreur est survenue",
+    "description": "Une erreur inattendue s'est produite. Veuillez réessayer.",
+    "button": "Réessayer"
+  },
+
+  "NotFound": {
+    "heading": "Page introuvable",
+    "description": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "button": "Retourner à l'accueil"
+  },
+
   "About": {
     "label": "Biographie",
     "heading": "Une carrière au service du développement économique d'Haïti",
-    "imageAlt": "Serge Gabriel Collin — Ministre de l'Économie et des Finances",
-    "bio1": "Serge Gabriel Collin est un économiste et administrateur public haïtien dont la carrière est portée par un seul objectif : renforcer les institutions financières de la République d'Haïti et améliorer les conditions de vie des citoyens les plus vulnérables.",
+    "imageAlt": "Serge Gabriel Colin — Ministre de l'Économie et des Finances",
+    "bio1": "Serge Gabriel Colin est un économiste et administrateur public haïtien dont la carrière est portée par un seul objectif : renforcer les institutions financières de la République d'Haïti et améliorer les conditions de vie des citoyens les plus vulnérables.",
     "bio2prefix": "Fort de plus de quinze années d'expérience en finances publiques, coopération internationale et leadership institutionnel, il exerce aujourd'hui les fonctions de",
     "bio2role": "Ministre de l'Économie et des Finances",
     "bio2suffix": "de la République d'Haïti — avec une connaissance institutionnelle approfondie et une capacité éprouvée à produire des résultats sous une pression exceptionnelle.",
@@ -155,12 +167,12 @@
     "sections": {
       "intro": {
         "title": "Un parcours forgé sur le terrain",
-        "content": "Économiste et administrateur public, Serge Gabriel Collin a consacré plus de quinze ans au renforcement des institutions financières haïtiennes et à l'amélioration des conditions de vie des citoyens les plus vulnérables."
+        "content": "Économiste et administrateur public, Serge Gabriel Colin a consacré plus de quinze ans au renforcement des institutions financières haïtiennes et à l'amélioration des conditions de vie des citoyens les plus vulnérables."
       },
 
       "earlyCareer": {
         "title": "La construction d'une expertise en administration publique",
-        "content": "Formé au sein de l'administration publique haïtienne, M. Collin a acquis une maîtrise des finances publiques, de la gestion de projets et de la coopération internationale. Son approche analytique et son efficacité opérationnelle en ont fait une figure de confiance au sein du gouvernement et auprès des partenaires internationaux."
+        "content": "Formé au sein de l'administration publique haïtienne, M. Colin a acquis une maîtrise des finances publiques, de la gestion de projets et de la coopération internationale. Son approche analytique et son efficacité opérationnelle en ont fait une figure de confiance au sein du gouvernement et auprès des partenaires internationaux."
       },
 
       "faes": {
@@ -178,7 +190,7 @@
 
       "cabinetDirector": {
         "title": "Directeur de cabinet au MEF",
-        "content": "Nommé directeur de cabinet du MEF le 9 février 2026, M. Collin a assuré la coordination administrative du ministère durant une transition politique déterminante, confirmant la confiance accordée à son expertise institutionnelle."
+        "content": "Nommé directeur de cabinet du MEF le 9 février 2026, M. Colin a assuré la coordination administrative du ministère durant une transition politique déterminante, confirmant la confiance accordée à son expertise institutionnelle."
       },
 
       "minister": {
@@ -196,7 +208,7 @@
 
       "philosophy": {
         "title": "Philosophie de leadership",
-        "content": "Performance, transparence, inclusion — trois principes qui guident chaque décision du ministre Collin. Lorsque les prix augmentent et que la monnaie se déprécie, ce sont les familles les plus fragiles qui paient le prix de l'instabilité. La discipline budgétaire n'est pas une abstraction — c'est la première ligne de défense du peuple haïtien."
+        "content": "Performance, transparence, inclusion — trois principes qui guident chaque décision du ministre Colin. Lorsque les prix augmentent et que la monnaie se déprécie, ce sont les familles les plus fragiles qui paient le prix de l'instabilité. La discipline budgétaire n'est pas une abstraction — c'est la première ligne de défense du peuple haïtien."
       }
     },
 
@@ -240,16 +252,16 @@
 
     "quote": {
       "text": "Je reçois cette responsabilité avec humilité et détermination. Payer l'impôt, c'est contribuer à la reconstruction du pays.",
-      "source": "Serge Gabriel Collin, cérémonie d'installation, 25 février 2026"
+      "source": "Serge Gabriel Colin, cérémonie d'installation, 25 février 2026"
     }
   },
 
   "Vision": {
     "label": "Vision",
     "heading": "Bâtir une économie résiliente et inclusive pour Haïti",
-    "introText": "Haïti sort de plus de cinq années consécutives de récession économique, aggravée par l'instabilité politique et une crise sécuritaire dévastatrice. L'inflation avoisinait les 25 % à la fin de l'année 2025. Les recettes publiques n'ont progressé que de 8 %, tandis que les dépenses ont augmenté d'environ 44 %. Le financement monétaire a atteint 13,6 milliards de gourdes malgré les engagements pris envers le FMI. La vision du ministre Collin est claire : cette trajectoire doit changer — et cela commence par la discipline, la transparence et la modernisation des institutions financières d'Haïti.",
+    "introText": "Haïti sort de plus de cinq années consécutives de récession économique, aggravée par l'instabilité politique et une crise sécuritaire dévastatrice. L'inflation avoisinait les 25 % à la fin de l'année 2025. Les recettes publiques n'ont progressé que de 8 %, tandis que les dépenses ont augmenté d'environ 44 %. Le financement monétaire a atteint 13,6 milliards de gourdes malgré les engagements pris envers le FMI. La vision du ministre Colin est claire : cette trajectoire doit changer — et cela commence par la discipline, la transparence et la modernisation des institutions financières d'Haïti.",
     "quote": "Lorsque les prix augmentent et que la monnaie se déprécie, ce sont les familles les plus fragiles qui paient le prix de l'instabilité. La discipline budgétaire n'est pas une option, c'est une nécessité.",
-    "quoteAuthor": "Serge Gabriel Collin",
+    "quoteAuthor": "Serge Gabriel Colin",
     "axesLabel": "Axes stratégiques",
     "keyActionsLabel": "Actions prioritaires",
 
@@ -276,7 +288,7 @@
       },
       "p3": {
         "title": "Inclusion financière et protection sociale",
-        "desc": "S'appuyant sur son expérience au FAES, où il a dirigé des programmes ayant touché 250 000 ménages, le ministre Collin sait que la politique économique doit servir les plus vulnérables. L'inclusion financière signifie garantir que les bénéfices de la stabilisation fiscale atteignent chaque recoin d'Haïti — des familles déplacées de Port-au-Prince aux communautés rurales de la Grand'Anse.",
+        "desc": "S'appuyant sur son expérience au FAES, où il a dirigé des programmes ayant touché 250 000 ménages, le ministre Colin sait que la politique économique doit servir les plus vulnérables. L'inclusion financière signifie garantir que les bénéfices de la stabilisation fiscale atteignent chaque recoin d'Haïti — des familles déplacées de Port-au-Prince aux communautés rurales de la Grand'Anse.",
         "keyActions": [
           "Développer l'infrastructure de paiement numérique pour les transferts sociaux",
           "Renforcer le registre social SIMAST pour un meilleur ciblage des bénéficiaires",
@@ -332,7 +344,7 @@
         "title": "Opérations humanitaires du FAES à grande échelle",
         "date": "2025",
         "categoryKey": "humanitarian",
-        "desc": "Sous la direction de M. Collin en tant que directeur général, le FAES a distribué plus de 218 000 kits alimentaires et sanitaires, déployé 48 restaurants communautaires et effectué des transferts monétaires à près de 250 000 ménages vulnérables."
+        "desc": "Sous la direction de M. Colin en tant que directeur général, le FAES a distribué plus de 218 000 kits alimentaires et sanitaires, déployé 48 restaurants communautaires et effectué des transferts monétaires à près de 250 000 ménages vulnérables."
       },
       "a5": {
         "title": "Atelier de planification stratégique avec la BID — Cap-Haïtien",
@@ -379,10 +391,10 @@
     "readArticle": "Lire l'article",
     "allNews": "Toutes les actualités",
     "featured": {
-      "title": "Le ministre Collin installé à la tête du ministère de l'Économie et des Finances",
+      "title": "Le ministre Colin installé à la tête du ministère de l'Économie et des Finances",
       "date": "25 février 2026",
       "category": "Officiel",
-      "excerpt": "Serge Gabriel Collin a été officiellement installé en tant que ministre de l'Économie et des Finances lors d'une cérémonie au MEF, présentant ses priorités immédiates : discipline budgétaire, mobilisation des recettes et budget rectificatif aligné sur les objectifs du gouvernement et les engagements envers le FMI."
+      "excerpt": "Serge Gabriel Colin a été officiellement installé en tant que ministre de l'Économie et des Finances lors d'une cérémonie au MEF, présentant ses priorités immédiates : discipline budgétaire, mobilisation des recettes et budget rectificatif aligné sur les objectifs du gouvernement et les engagements envers le FMI."
     },
     "articles": {
       "a1": {
@@ -391,7 +403,7 @@
         "category": "Communiqué"
       },
       "a2": {
-        "title": "Collin nommé directeur de cabinet au ministère de l'Économie et des Finances",
+        "title": "Colin nommé directeur de cabinet au ministère de l'Économie et des Finances",
         "date": "9 février 2026",
         "category": "Nomination"
       },
@@ -448,12 +460,12 @@
     "press": {
       "p1": {
         "pub": "Le Nouvelliste",
-        "title": "Serge Gabriel Collin installé à la tête du ministère de l'Économie et des Finances",
+        "title": "Serge Gabriel Colin installé à la tête du ministère de l'Économie et des Finances",
         "date": "Février 2026"
       },
       "p2": {
         "pub": "Haiti24",
-        "title": "Collin officiellement installé au MEF — feuille de route pour le redressement fiscal",
+        "title": "Colin officiellement installé au MEF — feuille de route pour le redressement fiscal",
         "date": "Février 2026"
       },
       "p3": {
@@ -463,12 +475,12 @@
       },
       "p4": {
         "pub": "Gazette Haïti",
-        "title": "Collin prend les rênes du ministère de l'Économie",
+        "title": "Colin prend les rênes du ministère de l'Économie",
         "date": "Février 2026"
       },
       "p5": {
         "pub": "Le National",
-        "title": "Nouvelles nominations : Collin au MEF, François à la DGI, Romilus au FAES",
+        "title": "Nouvelles nominations : Colin au MEF, François à la DGI, Romilus au FAES",
         "date": "Février 2026"
       }
     },
@@ -485,7 +497,7 @@
       "secondary": "Pétion-Ville, Haïti"
     },
     "phone": "+509 XX XX XXXX",
-    "email": "contact@sergegabrielcollin.com",
+    "email": "contact@sergegabrielcolin.com",
     "fields": {
       "name": "Nom complet",
       "email": "Adresse courriel",
@@ -505,7 +517,7 @@
   },
 
   "Footer": {
-    "name": "Serge Gabriel Collin",
+    "name": "Serge Gabriel Colin",
     "role": "Ministre de l'Économie et des Finances",
     "quote": "Le leadership par l'action.\nL'excellence par la rigueur.",
     "navigationLabel": "Navigation",
@@ -517,11 +529,11 @@
       "secondary": "Pétion-Ville, Haïti"
     },
     "phone": "+509 XX XX XXXX",
-    "email": "contact@sergegabrielcollin.com",
+    "email": "contact@sergegabrielcolin.com",
     "republicLabel": "République d'Haïti",
     "republicDescription": "Site officiel du ministre de l'Économie et des Finances de la République d'Haïti.",
     "socialLabel": "Suivez-nous",
-    "copyright": "© 2026 Serge Gabriel Collin. Tous droits réservés."
+    "copyright": "© 2026 Serge Gabriel Colin. Tous droits réservés."
   },
 
   "PinPage": {
@@ -533,7 +545,7 @@
   },
 
   "_NOTES_TRADUCTION": {
-    "note": "Traduction française intégrale du contenu du site officiel du ministre Serge Gabriel Collin. Le français utilisé respecte les conventions institutionnelles haïtiennes et les normes typographiques françaises (espaces insécables avant les deux-points, points-virgules, etc.).",
+    "note": "Traduction française intégrale du contenu du site officiel du ministre Serge Gabriel Colin. Le français utilisé respecte les conventions institutionnelles haïtiennes et les normes typographiques françaises (espaces insécables avant les deux-points, points-virgules, etc.).",
     "conventions": [
       "« ministre » en minuscule lorsqu'il ne s'agit pas d'un titre formel en début de phrase, conformément aux règles typographiques françaises",
       "« ministère de l'Économie et des Finances » — Économie avec É majuscule accentuée",

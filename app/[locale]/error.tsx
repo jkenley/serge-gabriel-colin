@@ -1,6 +1,7 @@
 "use client";
 
 import { Box, Flex, Heading, Text, VStack } from "@chakra-ui/react";
+import { useTranslations } from "next-intl";
 import Monogram from "@/components/Monogram";
 
 export default function ErrorPage({
@@ -9,6 +10,8 @@ export default function ErrorPage({
   error: globalThis.Error & { digest?: string };
   reset: () => void;
 }) {
+  const t = useTranslations("ErrorPage");
+
   return (
     <Box bg="brand.primary" minH="100vh" position="relative" overflow="hidden">
       {/* Pattern overlay */}
@@ -54,7 +57,7 @@ export default function ErrorPage({
               color="white"
               letterSpacing="headingTight"
             >
-              Something went wrong
+              {t("heading")}
             </Heading>
             <Text
               fontFamily="body"
@@ -63,7 +66,7 @@ export default function ErrorPage({
               lineHeight="body"
               maxW="xs"
             >
-              An unexpected error occurred. Please try again.
+              {t("description")}
             </Text>
           </VStack>
 
@@ -84,7 +87,7 @@ export default function ErrorPage({
             transition="all 300ms"
             _hover={{ bg: "brand.gold.light" }}
           >
-            Try again
+            {t("button")}
           </Box>
 
           {/* Bottom accent */}
