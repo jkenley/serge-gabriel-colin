@@ -1,6 +1,6 @@
-import { Box } from "@chakra-ui/react";
 import type { Metadata } from "next";
-import ContactSection from "@/components/sections/ContactSection";
+import ContactFormSection from "@/components/sections/contact/ContactFormSection";
+import ContactHeroSection from "@/components/sections/contact/ContactHeroSection";
 import { getPageSEO } from "@/lib/seo/metadata";
 
 export async function generateMetadata({
@@ -14,8 +14,9 @@ export async function generateMetadata({
 
 export default function ContactPage() {
   return (
-    <Box pt={{ base: "16", lg: "20" }}>
-      <ContactSection />
-    </Box>
+    <>
+      <ContactHeroSection />
+      <ContactFormSection />
+    </>
   );
 }

@@ -28,7 +28,8 @@ export default function FooterSection() {
   ];
 
   const contactInfo = [
-    { icon: MapPin, text: t("location") },
+    { icon: MapPin, text: t("locations.main") },
+    { icon: MapPin, text: t("locations.secondary") },
     { icon: Phone, text: t("phone") },
     { icon: Mail, text: t("email") },
   ];

@@ -1,6 +1,13 @@
 "use client";
 
-import { Box, Flex, HStack, IconButton, VStack } from "@chakra-ui/react";
+import {
+  Box,
+  Button,
+  Flex,
+  HStack,
+  IconButton,
+  VStack,
+} from "@chakra-ui/react";
 import { Menu, X } from "lucide-react";
 import { AnimatePresence, motion } from "motion/react";
 import { useLocale, useTranslations } from "next-intl";
@@ -60,10 +67,24 @@ export default function Navbar() {
         zIndex="header"
         transition="all 300ms"
         bg={scrolled || !isHome ? rawColors.primary : "transparent"}
-        // backdropFilter={scrolled || !isHome ? "blur(4px)" : "none"}
         boxShadow={scrolled ? "lg" : "none"}
+        overflow="hidden"
       >
+        {/* Pattern overlay — matches hero sections */}
+        {(scrolled || !isHome) && (
+          <Box
+            position="absolute"
+            inset="0"
+            opacity={0.5}
+            backgroundImage="repeating-radial-gradient(circle at 0 0, transparent 0, hsl(211, 54%, 11%) 6px), repeating-linear-gradient(hsla(211, 55%, 18%, 0.4), hsla(211, 55%, 14%, 0.15))"
+            pointerEvents="none"
+            zIndex="0"
+          />
+        )}
+
         <Flex
+          position="relative"
+          zIndex="1"
           maxW="1200px"
           mx="auto"
           px="6"
@@ -109,9 +130,10 @@ export default function Navbar() {
 
           <HStack gap="2" display={{ base: "none", lg: "flex" }}>
             {languages.map((lang) => (
-              <Box
+              <Button
                 key={lang.code}
-                as="button"
+                variant="ghost"
+                size="xs"
                 onClick={() => router.replace(pathname, { locale: lang.code })}
                 fontFamily="body"
                 fontSize="xs"
@@ -123,11 +145,12 @@ export default function Navbar() {
                 bg={locale === lang.code ? "brand.gold" : "transparent"}
                 color={locale === lang.code ? "white" : "whiteAlpha.600"}
                 _hover={{
+                  bg: locale === lang.code ? "brand.gold" : "transparent",
                   color: locale === lang.code ? "white" : "whiteAlpha.900",
                 }}
               >
                 {lang.label}
-              </Box>
+              </Button>
             ))}
           </HStack>
 
@@ -159,8 +182,18 @@ export default function Navbar() {
             display="flex"
             alignItems="center"
             justifyContent="center"
+            overflow="hidden"
           >
-            <VStack gap="6">
+            {/* Pattern overlay */}
+            <Box
+              position="absolute"
+              inset="0"
+              opacity={0.5}
+              backgroundImage="repeating-radial-gradient(circle at 0 0, transparent 0, hsl(211, 54%, 11%) 6px), repeating-linear-gradient(hsla(211, 55%, 18%, 0.4), hsla(211, 55%, 14%, 0.15))"
+              pointerEvents="none"
+              zIndex="0"
+            />
+            <VStack gap="6" position="relative" zIndex="1">
               {navLinks.map((link, i) => (
                 <MotionBox
                   key={link.href}
@@ -183,9 +216,10 @@ export default function Navbar() {
               ))}
               <HStack gap="2" mt="4">
                 {languages.map((lang) => (
-                  <Box
+                  <Button
                     key={lang.code}
-                    as="button"
+                    variant="outline"
+                    size="sm"
                     onClick={() =>
                       router.replace(pathname, { locale: lang.code })
                     }
@@ -198,13 +232,17 @@ export default function Navbar() {
                     cursor="pointer"
                     bg={locale === lang.code ? "brand.gold" : "transparent"}
                     color={locale === lang.code ? "white" : "whiteAlpha.600"}
-                    border="1px solid"
                     borderColor={
                       locale === lang.code ? "brand.gold" : "whiteAlpha.200"
                     }
+                    _hover={{
+                      bg: locale === lang.code ? "brand.gold" : "transparent",
+                      borderColor:
+                        locale === lang.code ? "brand.gold" : "whiteAlpha.400",
+                    }}
                   >
                     {lang.label}
-                  </Box>
+                  </Button>
                 ))}
               </HStack>
             </VStack>

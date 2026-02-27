@@ -486,7 +486,10 @@
     "label": "Contact",
     "heading": "Nous joindre",
     "cabinetTitle": "Cabinet du ministre de l'Économie et des Finances",
-    "location": "Port-au-Prince, Haïti",
+    "locations": {
+      "main": "Port-au-Prince, Haïti",
+      "secondary": "Pétion-Ville, Haïti"
+    },
     "phone": "+509 XX XX XXXX",
     "email": "contact@sergegabrielcollin.com",
     "fields": {
@@ -499,10 +502,12 @@
       "press": "Demande de presse",
       "partnership": "Opportunité de partenariat",
       "official": "Demande officielle",
+      "invitation": "Invitation à un événement",
+      "information": "Demande d'information",
+      "complaint": "Plainte ou réclamation",
       "other": "Autre"
     },
-    "submit": "Envoyer le message",
-    "responseTime": "Réponse sous 48 heures ouvrables"
+    "submit": "Envoyer le message"
   },
 
   "Footer": {
@@ -513,7 +518,10 @@
     "contactLabel": "Contact",
     "cabinetTitle": "Cabinet du ministre",
     "cabinetSubtitle": "de l'Économie et des Finances",
-    "location": "Port-au-Prince, Haïti",
+    "locations": {
+      "main": "Port-au-Prince, Haïti",
+      "secondary": "Pétion-Ville, Haïti"
+    },
     "phone": "+509 XX XX XXXX",
     "email": "contact@sergegabrielcollin.com",
     "republicLabel": "République d'Haïti",
