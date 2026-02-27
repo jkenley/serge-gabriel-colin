@@ -1,6 +1,7 @@
-import { Box } from "@chakra-ui/react";
 import type { Metadata } from "next";
-import MediaSection from "@/components/sections/MediaSection";
+import HomeCTASection from "@/components/sections/HomeCTASection";
+import MediaGallerySection from "@/components/sections/media/MediaGallerySection";
+import MediaHeroSection from "@/components/sections/media/MediaHeroSection";
 import { getPageSEO } from "@/lib/seo/metadata";
 
 export async function generateMetadata({
@@ -14,8 +15,10 @@ export async function generateMetadata({
 
 export default function MediasPage() {
   return (
-    <Box pt={{ base: "16", lg: "20" }}>
-      <MediaSection />
-    </Box>
+    <>
+      <MediaHeroSection />
+      <MediaGallerySection />
+      <HomeCTASection />
+    </>
   );
 }
