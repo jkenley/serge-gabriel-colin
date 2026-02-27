@@ -257,6 +257,7 @@ export default function HomeHeroSection() {
                 transition={{ duration: 0.6, delay: 1 }}
                 w="full"
                 pt="4"
+                pb={{ base: "28", lg: "0" }}
               >
                 <Box w="full" h="px" bg="whiteAlpha.100" mb="6" />
                 <SimpleGrid columns={2} gap="5">
@@ -314,6 +315,7 @@ export default function HomeHeroSection() {
               overflow="hidden"
               rounded="lg"
               zIndex="1"
+              maxH={{ base: "500px", lg: "full" }}
             >
               <Image
                 src="/serge_gabriel_colin.jpg"

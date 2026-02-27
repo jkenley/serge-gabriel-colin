@@ -85,7 +85,6 @@ export default function FooterSection() {
           gap={{ base: "4", lg: "8" }}
           pt={{ base: "16", lg: "20" }}
           pb={{ base: "8", lg: "12" }}
-          // border="2px solid blue"
         >
           <Box>
             <Link href="/">
@@ -93,7 +92,7 @@ export default function FooterSection() {
             </Link>
             <Text
               fontFamily="heading"
-              fontSize={{ base: "xl", lg: "2xl" }}
+              fontSize={{ base: "lg", lg: "xl" }}
               fontWeight="600"
               color="white"
               mt="4"
@@ -110,6 +109,7 @@ export default function FooterSection() {
             variant="plain"
             maxW="sm"
             textAlign={{ base: "left", lg: "right" }}
+            p="0"
           >
             <Blockquote.Content
               fontFamily="heading"

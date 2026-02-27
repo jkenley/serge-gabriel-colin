@@ -162,6 +162,9 @@ export default function Navbar() {
             variant="ghost"
             color="white"
             size="md"
+            borderRadius="full"
+            _hover={{ bg: "brand.gold" }}
+            _active={{ bg: "brand.gold" }}
           >
             {mobileOpen ? <X size={24} /> : <Menu size={24} />}
           </IconButton>

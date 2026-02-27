@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 
 const BASE_URL =
-  process.env.NEXT_PUBLIC_BASE_URL || "https://sergegabrielcollin.com";
+  process.env.NEXT_PUBLIC_BASE_URL || "https://sergegabrielcolin.com";
 
 const LOCALE_MAP: Record<string, string> = {
   fr: "fr_FR",
@@ -35,13 +35,13 @@ export async function getPageSEO(
       description: t("description"),
       locale: LOCALE_MAP[locale] || "fr_FR",
       type: "website",
-      siteName: "Serge Gabriel Collin",
+      siteName: "Serge Gabriel Colin",
       images: [
         {
           url: `${BASE_URL}/serge_gabriel_colin.jpg`,
           width: 1200,
           height: 630,
-          alt: "Serge Gabriel Collin — Minister of Economy and Finance",
+          alt: "Serge Gabriel Colin — Minister of Economy and Finance",
         },
       ],
     },

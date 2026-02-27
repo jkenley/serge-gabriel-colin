@@ -20,31 +20,31 @@ export const socialLinks: SocialLink[] = [
   {
     key: "facebook",
     label: "Facebook",
-    href: "https://facebook.com/sergegabrielcollin",
+    href: "https://facebook.com/sergegabrielcolin",
     icon: Facebook,
   },
   {
     key: "instagram",
     label: "Instagram",
-    href: "https://instagram.com/sergegabrielcollin",
+    href: "https://instagram.com/sergegabrielcolin",
     icon: Instagram,
   },
   {
     key: "twitter",
     label: "X",
-    href: "https://x.com/sergegcollin",
+    href: "https://x.com/sergegcolin",
     icon: Twitter,
   },
   {
     key: "linkedin",
     label: "LinkedIn",
-    href: "https://linkedin.com/in/sergegabrielcollin",
+    href: "https://linkedin.com/in/sergegabrielcolin",
     icon: Linkedin,
   },
   {
     key: "youtube",
     label: "YouTube",
-    href: "https://youtube.com/@sergegabrielcollin",
+    href: "https://youtube.com/@sergegabrielcolin",
     icon: Youtube,
   },
 ];
