@@ -256,6 +256,8 @@
     "introText": "Haiti is emerging from more than five consecutive years of economic recession, compounded by political instability and a devastating security crisis. Inflation reached approximately 25% at the end of 2025. Public revenues grew by only 8% while expenditures surged by 44%. Monetary financing reached 13.6 billion gourdes despite IMF commitments. Minister Collin's vision is clear: this trajectory must change — and it begins with discipline, transparency, and the modernization of Haiti's financial institutions.",
     "quote": "When prices rise and the currency depreciates, it is the most fragile families who pay the price of instability. Budgetary discipline is not an option — it is a necessity.",
     "quoteAuthor": "Serge Gabriel Collin",
+    "axesLabel": "Strategic Pillars",
+    "keyActionsLabel": "Priority Actions",
 
     "pillars": {
       "p1": {

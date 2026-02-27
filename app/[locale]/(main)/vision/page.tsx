@@ -1,6 +1,8 @@
-import { Box } from "@chakra-ui/react";
 import type { Metadata } from "next";
-import VisionSection from "@/components/sections/VisionSection";
+import HomeCTASection from "@/components/sections/HomeCTASection";
+import VisionHeroSection from "@/components/sections/vision/VisionHeroSection";
+import VisionPillarsSection from "@/components/sections/vision/VisionPillarsSection";
+import VisionQuoteSection from "@/components/sections/vision/VisionQuoteSection";
 import { getPageSEO } from "@/lib/seo/metadata";
 
 export async function generateMetadata({
@@ -14,8 +16,11 @@ export async function generateMetadata({
 
 export default function VisionPage() {
   return (
-    <Box pt={{ base: "16", lg: "20" }}>
-      <VisionSection />
-    </Box>
+    <>
+      <VisionHeroSection />
+      <VisionQuoteSection />
+      <VisionPillarsSection />
+      <HomeCTASection />
+    </>
   );
 }
