@@ -76,7 +76,8 @@ export default function FooterSection() {
           align={{ base: "start", lg: "end" }}
           gap={{ base: "4", lg: "8" }}
           pt={{ base: "16", lg: "20" }}
-          pb={{ base: "12", lg: "14" }}
+          pb={{ base: "8", lg: "12" }}
+          // border="2px solid blue"
         >
           <Box>
             <Link href="/">
@@ -120,14 +121,12 @@ export default function FooterSection() {
           </Text>
         </Flex>
 
-        {/* Divider */}
-        <Box h="px" bg="whiteAlpha.100" />
-
         {/* ── Middle: Nav + Contact ── */}
         <Grid
           templateColumns={{ base: "1fr", md: "1fr 1fr 1fr" }}
-          gap={{ base: "12", md: "10", lg: "16" }}
-          py={{ base: "12", lg: "14" }}
+          gap={{ base: "8", md: "10", lg: "16" }}
+          py={{ base: "0", lg: "14" }}
+          pb={{ base: "8", lg: "0" }}
         >
           {/* Navigation */}
           <Box>
@@ -289,10 +288,6 @@ export default function FooterSection() {
                 </Box>
               ))}
             </HStack>
-            <Box w="px" h="3" bg="whiteAlpha.200" />
-            <Text fontFamily="body" fontSize="label" color="whiteAlpha.200">
-              {t("bottomRepublic")}
-            </Text>
           </HStack>
         </Flex>
       </Box>
