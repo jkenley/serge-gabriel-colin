@@ -1,6 +1,7 @@
-import { Box } from "@chakra-ui/react";
 import type { Metadata } from "next";
-import ActionsSection from "@/components/sections/ActionsSection";
+import ActionsGridSection from "@/components/sections/actions/ActionsGridSection";
+import ActionsHeroSection from "@/components/sections/actions/ActionsHeroSection";
+import HomeCTASection from "@/components/sections/HomeCTASection";
 import { getPageSEO } from "@/lib/seo/metadata";
 
 export async function generateMetadata({
@@ -14,8 +15,10 @@ export async function generateMetadata({
 
 export default function ActionsPage() {
   return (
-    <Box pt={{ base: "16", lg: "20" }}>
-      <ActionsSection />
-    </Box>
+    <>
+      <ActionsHeroSection />
+      <ActionsGridSection />
+      <HomeCTASection />
+    </>
   );
 }
