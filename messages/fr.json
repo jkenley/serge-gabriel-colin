@@ -259,7 +259,7 @@
   "Vision": {
     "label": "Vision",
     "heading": "Bâtir une économie résiliente et inclusive pour Haïti",
-    "introText": "Haïti sort de plus de cinq années consécutives de récession économique, aggravée par l'instabilité politique et une crise sécuritaire dévastatrice. L'inflation avoisinait les 25 % à la fin de l'année 2025. Les recettes publiques n'ont progressé que de 8 %, tandis que les dépenses ont augmenté d'environ 44 %. Le financement monétaire a atteint 13,6 milliards de gourdes malgré les engagements pris envers le FMI. La vision du ministre Colin est claire : cette trajectoire doit changer — et cela commence par la discipline, la transparence et la modernisation des institutions financières d'Haïti.",
+    "introText": "Après cinq années de récession, une inflation à 25 % et un déficit croissant, le redressement d'Haïti exige un changement de cap. La vision du ministre Colin est claire : discipline, transparence et modernisation des institutions financières.",
     "quote": "Lorsque les prix augmentent et que la monnaie se déprécie, ce sont les familles les plus fragiles qui paient le prix de l'instabilité. La discipline budgétaire n'est pas une option, c'est une nécessité.",
     "quoteAuthor": "Serge Gabriel Colin",
     "axesLabel": "Axes stratégiques",
@@ -268,7 +268,7 @@
     "pillars": {
       "p1": {
         "title": "Modernisation fiscale et mobilisation des recettes",
-        "desc": "Accélérer la télédéclaration, renforcer les systèmes de données de la DGI pour le suivi des paiements en temps réel, améliorer les recouvrements à l'AGD, y compris l'élargissement des plages horaires de collecte, et renforcer les capacités des administrations fiscale et douanière afin qu'elles deviennent de véritables moteurs de génération de recettes internes.",
+        "desc": "Accélérer la télédéclaration, moderniser les systèmes de données de la DGI et de l'AGD, et transformer les administrations fiscale et douanière en moteurs de recettes internes.",
         "keyActions": [
           "Accélérer le déploiement de la télédéclaration comme principal canal de paiement des impôts",
           "Assurer la disponibilité en temps réel des données de paiement et d'encaissement à la DGI et à l'AGD",
@@ -278,7 +278,7 @@
       },
       "p2": {
         "title": "Discipline budgétaire et stabilité macroéconomique",
-        "desc": "Mettre fin au cycle du financement monétaire excessif qui déprécie la gourde et alimente l'inflation. Préparer un budget rectificatif 2025–2026 aligné sur les priorités gouvernementales tout en respectant les engagements du programme SMP avec le FMI. Chaque décision financière doit être guidée par trois principes : l'intérêt général, la transparence et l'efficacité.",
+        "desc": "Mettre fin au financement monétaire excessif, préparer un budget rectificatif 2025–2026 et respecter les engagements envers le FMI. Chaque décision guidée par l'intérêt général, la transparence et l'efficacité.",
         "keyActions": [
           "Préparer et mettre en œuvre le budget rectificatif 2025–2026",
           "Limiter le financement monétaire pour protéger la stabilité macroéconomique",
@@ -288,7 +288,7 @@
       },
       "p3": {
         "title": "Inclusion financière et protection sociale",
-        "desc": "S'appuyant sur son expérience au FAES, où il a dirigé des programmes ayant touché 250 000 ménages, le ministre Colin sait que la politique économique doit servir les plus vulnérables. L'inclusion financière signifie garantir que les bénéfices de la stabilisation fiscale atteignent chaque recoin d'Haïti — des familles déplacées de Port-au-Prince aux communautés rurales de la Grand'Anse.",
+        "desc": "Fort de son expérience au FAES auprès de 250 000 ménages, le ministre Colin veille à ce que les bénéfices de la stabilisation fiscale atteignent chaque recoin d'Haïti.",
         "keyActions": [
           "Développer l'infrastructure de paiement numérique pour les transferts sociaux",
           "Renforcer le registre social SIMAST pour un meilleur ciblage des bénéficiaires",
@@ -298,7 +298,7 @@
       },
       "p4": {
         "title": "Partenariats internationaux et crédibilité institutionnelle",
-        "desc": "Le redressement économique d'Haïti dépend du maintien et du renforcement des partenariats avec le FMI, la Banque mondiale, la BID et les partenaires bilatéraux. La crédibilité se construit en tenant ses engagements, en produisant des données fiables et en faisant preuve d'une gouvernance transparente — du ministère jusqu'à chaque organisme autonome placé sous sa tutelle.",
+        "desc": "Le redressement d'Haïti passe par des partenariats solides avec le FMI, la Banque mondiale et la BID. La crédibilité se construit par le respect des engagements et une gouvernance transparente.",
         "keyActions": [
           "Maintenir et approfondir l'engagement avec le FMI à travers le respect du programme SMP",
           "Renforcer la coordination avec la BID sur les programmes actifs de protection sociale",

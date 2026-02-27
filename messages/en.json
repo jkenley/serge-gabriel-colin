@@ -259,7 +259,7 @@
   "Vision": {
     "label": "Vision",
     "heading": "Building a resilient and inclusive economy for Haiti",
-    "introText": "Haiti is emerging from more than five consecutive years of economic recession, compounded by political instability and a devastating security crisis. Inflation reached approximately 25% at the end of 2025. Public revenues grew by only 8% while expenditures surged by 44%. Monetary financing reached 13.6 billion gourdes despite IMF commitments. Minister Colin's vision is clear: this trajectory must change — and it begins with discipline, transparency, and the modernization of Haiti's financial institutions.",
+    "introText": "After five years of recession, 25% inflation, and a widening fiscal gap, Haiti's recovery demands a new direction. Minister Colin's vision is clear: discipline, transparency, and modernization of Haiti's financial institutions.",
     "quote": "When prices rise and the currency depreciates, it is the most fragile families who pay the price of instability. Budgetary discipline is not an option — it is a necessity.",
     "quoteAuthor": "Serge Gabriel Colin",
     "axesLabel": "Strategic Pillars",
@@ -268,7 +268,7 @@
     "pillars": {
       "p1": {
         "title": "Fiscal Modernization & Revenue Mobilization",
-        "desc": "Accelerating tele-declaration, strengthening DGI data systems for real-time payment tracking, improving collections at the AGD including extended operating hours, and building the capacity of both fiscal and customs administrations to serve as engines of domestic revenue generation.",
+        "desc": "Accelerating tele-declaration, modernizing DGI and AGD data systems, and transforming fiscal and customs administrations into engines of domestic revenue.",
         "keyActions": [
           "Accelerate tele-declaration rollout as a primary tax payment channel",
           "Ensure real-time availability of payment and collection data at DGI and AGD",
@@ -278,7 +278,7 @@
       },
       "p2": {
         "title": "Budgetary Discipline & Macroeconomic Stability",
-        "desc": "Ending the cycle of excessive monetary financing that depreciates the gourde and fuels inflation. Preparing a rectified budget 2025–2026 aligned with government priorities while respecting IMF SMP commitments. Every financial decision guided by three principles: the general interest, transparency, and efficiency.",
+        "desc": "Ending excessive monetary financing, preparing a rectified 2025–2026 budget, and honoring IMF commitments. Every decision guided by the general interest, transparency, and efficiency.",
         "keyActions": [
           "Prepare and implement rectified budget 2025–2026",
           "Limit monetary financing to protect macroeconomic stability",
@@ -288,7 +288,7 @@
       },
       "p3": {
         "title": "Financial Inclusion & Social Protection",
-        "desc": "Drawing on his FAES experience managing programs that reached 250,000 households, Minister Colin understands that economic policy must serve the most vulnerable. Financial inclusion means ensuring that the benefits of fiscal stabilization reach every corner of Haiti — from displaced families in Port-au-Prince to rural communities in the Grand'Anse.",
+        "desc": "Drawing on his FAES experience reaching 250,000 households, Minister Colin ensures the benefits of fiscal stabilization reach every corner of Haiti.",
         "keyActions": [
           "Expand digital payment infrastructure for social transfers",
           "Strengthen the SIMAST social registry for better beneficiary targeting",
@@ -298,7 +298,7 @@
       },
       "p4": {
         "title": "International Partnerships & Institutional Credibility",
-        "desc": "Haiti's economic recovery depends on maintaining and strengthening partnerships with the IMF, World Bank, IDB, and bilateral partners. Credibility comes from keeping commitments, producing reliable data, and demonstrating transparent governance — from the Ministry down to every autonomous agency under its purview.",
+        "desc": "Haiti's recovery depends on strong partnerships with the IMF, World Bank, and IDB. Credibility comes from keeping commitments and demonstrating transparent governance.",
         "keyActions": [
           "Maintain and deepen IMF engagement through SMP compliance",
           "Strengthen coordination with IDB on active social protection programs",

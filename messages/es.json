@@ -259,7 +259,7 @@
   "Vision": {
     "label": "Visión",
     "heading": "Construir una economía resiliente e inclusiva para Haití",
-    "introText": "Haití sale de más de cinco años consecutivos de recesión económica, agravada por la inestabilidad política y una crisis de seguridad devastadora. La inflación alcanzó aproximadamente el 25 % a finales de 2025. Los ingresos públicos crecieron apenas un 8 %, mientras que los gastos aumentaron alrededor de un 44 %. El financiamiento monetario alcanzó los 13 600 millones de gurdas pese a los compromisos asumidos ante el FMI. La visión del ministro Colin es clara: esta trayectoria debe cambiar — y eso comienza con disciplina, transparencia y la modernización de las instituciones financieras de Haití.",
+    "introText": "Tras cinco años de recesión, una inflación del 25 % y un déficit creciente, la recuperación de Haití exige un cambio de rumbo. La visión del ministro Colin es clara: disciplina, transparencia y modernización de las instituciones financieras.",
     "quote": "Cuando los precios suben y la moneda se deprecia, son las familias más frágiles quienes pagan el precio de la inestabilidad. La disciplina presupuestaria no es una opción, es una necesidad.",
     "quoteAuthor": "Serge Gabriel Colin",
     "axesLabel": "Ejes estratégicos",
@@ -268,7 +268,7 @@
     "pillars": {
       "p1": {
         "title": "Modernización fiscal y movilización de ingresos",
-        "desc": "Acelerar la teledeclaración, fortalecer los sistemas de datos de la DGI para el seguimiento de pagos en tiempo real, mejorar la recaudación en la AGD incluyendo la ampliación de los horarios de cobro, y fortalecer las capacidades de las administraciones fiscal y aduanera para que se conviertan en verdaderos motores de generación de ingresos internos.",
+        "desc": "Acelerar la teledeclaración, modernizar los sistemas de datos de la DGI y la AGD, y transformar las administraciones fiscal y aduanera en motores de ingresos internos.",
         "keyActions": [
           "Acelerar el despliegue de la teledeclaración como principal canal de pago de impuestos",
           "Garantizar la disponibilidad en tiempo real de los datos de pago y recaudación en la DGI y la AGD",
@@ -278,7 +278,7 @@
       },
       "p2": {
         "title": "Disciplina presupuestaria y estabilidad macroeconómica",
-        "desc": "Poner fin al ciclo de financiamiento monetario excesivo que deprecia la gurda y alimenta la inflación. Preparar un presupuesto rectificativo 2025–2026 alineado con las prioridades del gobierno, respetando los compromisos del programa SMP con el FMI. Cada decisión financiera debe guiarse por tres principios: el interés general, la transparencia y la eficiencia.",
+        "desc": "Poner fin al financiamiento monetario excesivo, preparar un presupuesto rectificativo 2025–2026 y cumplir los compromisos con el FMI. Cada decisión guiada por el interés general, la transparencia y la eficiencia.",
         "keyActions": [
           "Preparar e implementar el presupuesto rectificativo 2025–2026",
           "Limitar el financiamiento monetario para proteger la estabilidad macroeconómica",
@@ -288,7 +288,7 @@
       },
       "p3": {
         "title": "Inclusión financiera y protección social",
-        "desc": "Con base en su experiencia en el FAES, donde dirigió programas que alcanzaron a 250 000 hogares, el ministro Colin sabe que la política económica debe servir a los más vulnerables. La inclusión financiera implica garantizar que los beneficios de la estabilización fiscal lleguen a cada rincón de Haití — desde las familias desplazadas de Puerto Príncipe hasta las comunidades rurales de la Grand'Anse.",
+        "desc": "Con base en su experiencia en el FAES alcanzando 250 000 hogares, el ministro Colin asegura que los beneficios de la estabilización fiscal lleguen a cada rincón de Haití.",
         "keyActions": [
           "Ampliar la infraestructura de pagos digitales para las transferencias sociales",
           "Fortalecer el registro social SIMAST para una mejor focalización de beneficiarios",
@@ -298,7 +298,7 @@
       },
       "p4": {
         "title": "Alianzas internacionales y credibilidad institucional",
-        "desc": "La recuperación económica de Haití depende del mantenimiento y fortalecimiento de las alianzas con el FMI, el Banco Mundial, el BID y los socios bilaterales. La credibilidad se construye cumpliendo los compromisos, produciendo datos confiables y demostrando una gobernanza transparente — desde el ministerio hasta cada organismo autónomo bajo su tutela.",
+        "desc": "La recuperación de Haití depende de alianzas sólidas con el FMI, el Banco Mundial y el BID. La credibilidad se construye cumpliendo compromisos y demostrando una gobernanza transparente.",
         "keyActions": [
           "Mantener y profundizar el compromiso con el FMI a través del cumplimiento del programa SMP",
           "Fortalecer la coordinación con el BID en los programas activos de protección social",
